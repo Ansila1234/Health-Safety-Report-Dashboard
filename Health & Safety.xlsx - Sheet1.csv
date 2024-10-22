@@ -1,0 +1,1501 @@
+Date,Incidents,Near Miss,Lost Hours,Injuries,Vehicle Incidents, Site,Business Unit,Severity,Most Frequent Injury
+18-May-23,9,5,0,1,1,Hoveringham,Transport,Critical,Lower Back
+23-Nov-23,8,5,0,1,1,Desford,Transport,Critical,Arm
+15-Jan-23,27,5,0,1,1,Hams Hall,Transport,Major,Finger
+18-Apr-20,28,5,0,1,1,Hams Hall,Site Activity,Major,Lower Back
+24-Apr-21,6,5,0,1,1,Hams Hall,Production,Critical,Lower Back
+29-Jul-22,0,5,0,1,1,Kings Dyke,Site Activity,Critical,Ankle
+1-Apr-20,22,5,0,1,1,Kirton,Maintenance,Critical,Ankle
+2-Mar-23,3,5,0,1,1,Kings Dyke,Transport,Critical,Ankle
+7-Jun-22,24,5,0,1,1,Hams Hall,Site Activity,Minor,Finger
+18-Jun-23,17,5,0,1,1,Hams Hall,Site Activity,Minor,Ankle
+23-Apr-21,22,5,0,1,1,Hoveringham,Maintenance,Critical,Finger
+2-Apr-20,24,5,0,1,1,Hoveringham,Maintenance,Minor,Lower Back
+28-Jan-22,5,5,0,1,1,Hams Hall,Production,Critical,Lower Back
+17-Oct-22,3,5,0,1,1,Kings Dyke,Site Activity,Critical,Arm
+21-Aug-21,7,5,0,1,1,Hams Hall,Transport,Minor,Arm
+13-Mar-22,25,5,0,1,1,Kings Dyke,Production,Major,Lower Back
+29-Mar-23,20,5,0,1,1,Kirton,Site Activity,Critical,Ankle
+28-Jul-23,15,5,0,1,1,Kirton,Production,Minor,Arm
+1-Feb-23,3,5,0,1,1,Hams Hall,Production,Major,Lower Back
+23-Nov-21,30,5,0,1,1,Kirton,Maintenance,Critical,Ankle
+29-May-22,20,5,0,1,1,Hams Hall,Site Activity,Critical,Ankle
+13-Aug-20,23,5,0,1,1,Hoveringham,Transport,Minor,Foot
+27-Jun-22,18,5,0,1,1,Hoveringham,Maintenance,Critical,Lower Back
+24-Jan-21,15,5,0,1,1,Hoveringham,Maintenance,Major,Ankle
+2-Mar-21,2,5,0,1,1,Kings Dyke,Production,Minor,Foot
+27-Oct-20,28,5,0,1,1,Desford,Production,Major,Foot
+21-May-21,6,5,0,1,1,Hoveringham,Maintenance,Major,Finger
+6-Jun-22,12,5,0,1,1,Kings Dyke,Production,Critical,Ankle
+4-Mar-20,4,5,0,1,1,Hams Hall,Maintenance,Minor,Foot
+8-Jan-20,2,5,0,1,1,Desford,Maintenance,Major,Finger
+6-Jul-23,12,5,0,1,1,Desford,Production,Critical,Lower Back
+30-Dec-23,0,5,0,1,1,Kirton,Production,Major,Lower Back
+5-Dec-22,26,5,0,1,1,Hams Hall,Production,Minor,Foot
+12-Jul-20,23,5,0,1,1,Hoveringham,Maintenance,Minor,Lower Back
+27-Sep-22,3,5,0,1,1,Desford,Maintenance,Major,Foot
+23-Apr-22,17,5,0,1,1,Desford,Site Activity,Critical,Lower Back
+27-Aug-23,22,5,0,1,1,Kirton,Maintenance,Major,Ankle
+9-Aug-21,5,5,0,1,1,Kirton,Production,Minor,Ankle
+13-Jul-21,11,5,0,1,1,Hams Hall,Site Activity,Major,Ankle
+19-Aug-23,17,5,0,1,1,Desford,Production,Critical,Foot
+7-Oct-21,29,5,0,1,1,Kings Dyke,Transport,Major,Lower Back
+22-Jun-22,8,5,0,1,1,Kirton,Production,Minor,Foot
+23-Apr-21,0,5,0,1,1,Kirton,Site Activity,Critical,Finger
+1-Jan-21,4,5,0,1,1,Kings Dyke,Production,Major,Finger
+11-Aug-21,18,5,0,1,1,Kings Dyke,Site Activity,Critical,Arm
+15-Mar-22,2,5,0,1,1,Kirton,Production,Critical,Foot
+28-Mar-20,14,5,0,1,1,Desford,Site Activity,Major,Foot
+2-Sep-21,1,5,0,1,1,Hams Hall,Production,Minor,Lower Back
+25-Jul-21,20,5,0,1,1,Hoveringham,Production,Minor,Finger
+4-Nov-23,18,5,0,1,1,Kirton,Maintenance,Minor,Finger
+8-Jul-23,22,5,0,1,1,Hams Hall,Site Activity,Critical,Arm
+26-Oct-23,17,5,0,1,1,Desford,Transport,Minor,Lower Back
+6-Aug-22,19,5,0,1,1,Hams Hall,Site Activity,Critical,Ankle
+21-Jun-20,18,5,0,1,1,Desford,Production,Major,Finger
+1-Oct-20,18,5,0,1,1,Desford,Transport,Minor,Foot
+2-Apr-21,17,5,0,1,1,Hoveringham,Site Activity,Minor,Ankle
+5-Sep-21,11,5,0,1,1,Kings Dyke,Site Activity,Critical,Finger
+11-Dec-21,16,5,0,1,1,Kings Dyke,Production,Critical,Finger
+5-Aug-20,28,5,0,1,1,Kirton,Site Activity,Minor,Lower Back
+23-Jul-23,18,5,0,1,1,Kings Dyke,Site Activity,Minor,Lower Back
+1-May-23,27,5,0,1,1,Kings Dyke,Transport,Critical,Lower Back
+13-Mar-22,22,5,0,1,1,Desford,Production,Major,Arm
+24-Dec-23,26,5,0,1,1,Desford,Maintenance,Critical,Lower Back
+12-Feb-21,22,5,0,1,1,Desford,Maintenance,Minor,Foot
+7-Apr-21,25,5,0,1,1,Desford,Maintenance,Major,Arm
+30-Jan-23,12,5,0,1,1,Desford,Transport,Critical,Arm
+8-Apr-22,13,5,0,1,1,Hoveringham,Maintenance,Minor,Arm
+21-Mar-22,25,5,0,1,1,Hams Hall,Site Activity,Minor,Ankle
+10-Dec-22,16,5,0,1,1,Hams Hall,Transport,Major,Lower Back
+29-Apr-22,14,5,0,1,1,Hams Hall,Site Activity,Critical,Finger
+11-Dec-21,4,5,0,1,1,Kings Dyke,Maintenance,Critical,Lower Back
+19-Aug-21,1,5,0,1,1,Hams Hall,Transport,Major,Ankle
+16-Nov-20,15,5,0,1,4,Kirton,Site Activity,Critical,Arm
+10-Nov-22,0,5,0,1,2,Hoveringham,Site Activity,Major,Arm
+22-Oct-21,1,5,0,1,4,Hams Hall,Maintenance,Minor,Finger
+19-Jan-20,2,5,0,1,4,Hoveringham,Site Activity,Critical,Finger
+7-Jun-20,21,5,0,1,5,Kirton,Transport,Minor,Lower Back
+30-Dec-20,29,5,0,1,4,Kings Dyke,Transport,Major,Ankle
+10-Jun-23,26,5,0,1,4,Kirton,Production,Critical,Finger
+9-Apr-20,1,5,0,1,4,Kirton,Production,Minor,Ankle
+25-Jan-21,18,5,0,1,3,Hams Hall,Transport,Major,Arm
+31-May-21,7,5,0,1,3,Kings Dyke,Production,Major,Foot
+19-Mar-21,2,5,0,1,4,Hams Hall,Maintenance,Major,Lower Back
+10-May-23,19,5,0,1,5,Hoveringham,Maintenance,Minor,Foot
+23-Dec-20,17,5,0,1,2,Hams Hall,Transport,Minor,Lower Back
+20-Nov-20,1,5,0,1,5,Hoveringham,Transport,Major,Arm
+22-Sep-21,1,5,0,1,4,Kings Dyke,Maintenance,Major,Finger
+8-Jun-20,11,5,0,1,0,Desford,Production,Critical,Finger
+10-Mar-21,2,5,0,1,4,Hoveringham,Maintenance,Minor,Arm
+4-Jan-23,26,5,0,1,4,Kings Dyke,Production,Critical,Ankle
+30-Apr-21,23,5,0,1,4,Hams Hall,Transport,Critical,Finger
+3-Mar-22,18,5,0,1,5,Hams Hall,Production,Minor,Finger
+20-Jul-23,26,5,0,1,4,Hams Hall,Maintenance,Minor,Finger
+29-Mar-21,11,5,0,1,5,Hams Hall,Transport,Minor,Ankle
+26-May-23,20,5,0,1,0,Desford,Transport,Minor,Arm
+11-Dec-23,13,5,0,1,3,Kings Dyke,Transport,Minor,Lower Back
+2-Aug-21,9,5,0,1,5,Hoveringham,Site Activity,Critical,Finger
+11-May-20,25,5,0,1,4,Desford,Site Activity,Critical,Foot
+23-May-22,28,5,0,1,2,Desford,Production,Major,Lower Back
+8-Sep-21,30,5,0,1,2,Desford,Transport,Critical,Foot
+4-Jun-20,22,5,0,1,5,Hams Hall,Site Activity,Major,Arm
+2-Sep-23,29,5,0,1,2,Kirton,Maintenance,Critical,Finger
+21-Jan-21,24,5,0,1,4,Kirton,Transport,Critical,Finger
+3-Jan-20,28,5,0,1,2,Hoveringham,Production,Minor,Arm
+23-Nov-20,22,5,0,1,5,Hams Hall,Transport,Critical,Foot
+16-Aug-22,4,5,0,1,3,Hoveringham,Production,Major,Foot
+22-May-22,10,5,0,1,0,Kirton,Site Activity,Critical,Finger
+17-Sep-22,9,5,0,1,0,Kings Dyke,Site Activity,Critical,Arm
+19-Apr-22,20,5,0,1,5,Desford,Transport,Minor,Finger
+2-Jul-23,22,5,0,1,0,Hoveringham,Site Activity,Major,Ankle
+13-Apr-22,5,5,0,1,3,Desford,Site Activity,Major,Lower Back
+15-Aug-21,8,5,0,1,5,Desford,Transport,Minor,Finger
+12-May-23,19,5,0,1,4,Desford,Production,Critical,Lower Back
+3-Oct-23,13,5,0,1,3,Hams Hall,Maintenance,Major,Foot
+15-Apr-20,3,5,0,1,3,Kings Dyke,Production,Major,Ankle
+14-Sep-21,8,5,0,1,0,Hoveringham,Maintenance,Major,Foot
+29-Mar-22,28,5,0,1,5,Kings Dyke,Maintenance,Critical,Lower Back
+23-Mar-21,5,5,0,1,2,Desford,Site Activity,Minor,Foot
+7-May-23,27,5,0,1,0,Hoveringham,Maintenance,Major,Ankle
+27-Sep-21,0,5,0,1,4,Hoveringham,Maintenance,Critical,Foot
+29-Apr-21,6,5,0,1,2,Hams Hall,Production,Major,Lower Back
+8-Oct-21,8,5,0,0,2,Hoveringham,Maintenance,Minor,Foot
+15-Oct-21,30,5,0,0,5,Kirton,Transport,Minor,Finger
+6-Oct-22,26,5,0,7,4,Kirton,Transport,Major,Ankle
+12-Dec-23,22,5,0,0,4,Kings Dyke,Production,Major,Arm
+19-Aug-22,15,5,0,0,4,Desford,Transport,Critical,Lower Back
+26-Sep-20,16,5,0,0,4,Kirton,Maintenance,Critical,Arm
+30-Nov-22,17,5,0,9,0,Desford,Site Activity,Major,Arm
+12-Feb-21,14,5,0,4,4,Kirton,Maintenance,Major,Lower Back
+2-Aug-22,26,5,0,7,4,Kings Dyke,Transport,Minor,Foot
+26-May-21,2,5,0,10,2,Desford,Site Activity,Major,Arm
+30-Nov-20,6,5,0,4,2,Kings Dyke,Maintenance,Critical,Lower Back
+21-Sep-21,28,5,0,12,4,Kirton,Maintenance,Major,Finger
+18-May-23,19,5,0,8,4,Kirton,Maintenance,Critical,Foot
+17-May-21,17,5,0,4,1,Kings Dyke,Maintenance,Major,Foot
+17-Sep-20,29,5,0,4,4,Kirton,Transport,Major,Lower Back
+29-Jan-22,29,5,0,10,4,Hams Hall,Production,Critical,Arm
+1-Jun-21,2,5,0,4,3,Hams Hall,Maintenance,Critical,Arm
+19-Jun-22,5,5,0,4,3,Desford,Transport,Critical,Arm
+6-Sep-22,11,5,0,3,4,Hoveringham,Maintenance,Critical,Lower Back
+3-Feb-20,12,5,0,4,4,Hoveringham,Transport,Minor,Lower Back
+27-Jan-20,16,5,0,4,2,Hoveringham,Site Activity,Major,Ankle
+20-Feb-22,29,5,0,4,0,Kirton,Production,Minor,Arm
+10-Aug-22,30,5,0,4,4,Desford,Site Activity,Minor,Ankle
+7-Aug-23,13,5,0,4,2,Kirton,Production,Major,Foot
+26-Oct-22,14,5,0,0,4,Hoveringham,Maintenance,Major,Ankle
+18-Jul-22,23,5,0,4,2,Kings Dyke,Site Activity,Major,Lower Back
+1-Mar-20,20,5,0,4,3,Desford,Site Activity,Minor,Arm
+28-Nov-20,3,5,0,4,3,Hams Hall,Maintenance,Major,Ankle
+24-Oct-20,19,5,0,3,3,Hoveringham,Maintenance,Minor,Arm
+21-Jan-23,1,5,0,4,3,Hams Hall,Transport,Minor,Arm
+29-Jul-21,8,5,0,2,2,Hams Hall,Production,Major,Ankle
+23-Dec-21,17,5,0,7,1,Kings Dyke,Transport,Critical,Ankle
+18-Mar-20,0,5,0,7,4,Hoveringham,Production,Critical,Arm
+31-Jan-23,2,5,0,4,3,Hoveringham,Site Activity,Minor,Ankle
+19-Mar-22,13,5,0,7,3,Hams Hall,Site Activity,Major,Foot
+17-Apr-22,2,5,0,2,4,Desford,Maintenance,Minor,Ankle
+6-Aug-21,12,5,0,7,3,Hoveringham,Maintenance,Major,Arm
+21-Aug-22,5,5,0,7,2,Hoveringham,Site Activity,Minor,Ankle
+2-Jun-23,27,5,0,3,4,Hoveringham,Site Activity,Critical,Lower Back
+20-May-22,23,5,0,7,3,Hoveringham,Site Activity,Minor,Lower Back
+28-Jul-21,9,5,0,6,3,Desford,Maintenance,Critical,Finger
+14-Jun-23,18,5,0,10,4,Hoveringham,Transport,Major,Arm
+29-May-23,22,5,0,11,2,Hams Hall,Maintenance,Critical,Arm
+28-Jun-21,17,5,0,6,2,Desford,Maintenance,Major,Arm
+30-Apr-22,7,5,0,6,2,Kings Dyke,Maintenance,Major,Foot
+7-Dec-23,10,5,0,8,2,Kings Dyke,Transport,Critical,Ankle
+26-Jan-22,10,5,0,6,0,Kings Dyke,Maintenance,Critical,Lower Back
+5-Nov-21,28,5,0,11,2,Kirton,Site Activity,Major,Lower Back
+11-May-22,13,5,0,6,4,Hoveringham,Transport,Major,Ankle
+7-Aug-22,29,5,0,6,2,Hams Hall,Transport,Minor,Finger
+8-Mar-22,20,5,0,4,4,Kings Dyke,Transport,Minor,Foot
+14-Jan-22,7,5,0,15,2,Kirton,Production,Major,Ankle
+20-Oct-22,14,5,0,6,2,Hoveringham,Maintenance,Major,Foot
+3-Nov-22,0,5,0,4,2,Hams Hall,Production,Minor,Foot
+24-Jun-22,12,5,0,6,2,Kings Dyke,Production,Minor,Foot
+3-Jan-20,11,5,0,15,0,Kings Dyke,Production,Critical,Finger
+17-Feb-23,6,5,0,14,2,Desford,Production,Major,Lower Back
+3-Nov-22,12,5,0,2,2,Hoveringham,Transport,Critical,Arm
+16-Sep-21,24,5,0,6,2,Kirton,Production,Critical,Arm
+9-Apr-20,3,5,0,6,5,Kirton,Maintenance,Minor,Ankle
+21-Apr-22,18,5,0,6,2,Kings Dyke,Maintenance,Major,Lower Back
+5-Jan-20,7,5,0,6,2,Kirton,Maintenance,Critical,Ankle
+27-Jul-20,13,5,0,6,1,Kings Dyke,Production,Minor,Ankle
+15-Apr-21,28,5,0,6,3,Desford,Site Activity,Minor,Foot
+17-Mar-20,30,5,0,6,3,Kirton,Transport,Major,Finger
+20-Aug-23,3,5,0,13,0,Hoveringham,Maintenance,Critical,Ankle
+19-Mar-22,9,5,0,6,3,Kirton,Transport,Minor,Finger
+1-Nov-22,5,5,0,6,2,Hams Hall,Maintenance,Major,Arm
+16-Jan-22,4,5,0,5,2,Kirton,Production,Minor,Arm
+11-Apr-20,26,5,0,12,4,Hoveringham,Transport,Minor,Ankle
+8-Mar-20,13,5,0,7,2,Hams Hall,Site Activity,Major,Arm
+29-Jul-21,24,5,0,3,3,Hams Hall,Production,Minor,Finger
+15-Aug-21,22,5,0,14,2,Hams Hall,Maintenance,Major,Lower Back
+5-Feb-21,1,5,0,0,2,Hams Hall,Transport,Minor,Foot
+22-Jan-22,29,5,0,6,4,Hams Hall,Transport,Major,Finger
+15-May-22,28,5,0,2,2,Desford,Production,Major,Finger
+26-Sep-23,24,5,0,10,3,Desford,Production,Minor,Foot
+11-Dec-23,5,5,0,6,2,Desford,Site Activity,Minor,Finger
+21-Oct-20,28,5,0,6,2,Desford,Maintenance,Critical,Lower Back
+27-Sep-20,13,5,0,6,2,Kings Dyke,Site Activity,Minor,Lower Back
+24-Feb-20,14,5,0,6,1,Hoveringham,Production,Major,Ankle
+14-Jan-21,6,5,0,6,2,Hams Hall,Site Activity,Minor,Lower Back
+8-Nov-23,21,5,0,9,1,Hoveringham,Transport,Minor,Arm
+24-Jul-21,27,5,0,6,4,Hoveringham,Production,Major,Arm
+16-May-20,9,5,0,6,2,Kings Dyke,Transport,Critical,Foot
+4-Jul-20,4,5,0,2,1,Hams Hall,Transport,Major,Lower Back
+21-Aug-22,27,5,0,14,3,Desford,Production,Minor,Foot
+14-Mar-23,18,5,0,9,3,Desford,Site Activity,Major,Arm
+7-Mar-20,10,5,0,7,1,Desford,Site Activity,Minor,Lower Back
+28-May-23,28,5,0,6,1,Kings Dyke,Site Activity,Critical,Foot
+29-Jun-20,28,5,0,12,4,Desford,Transport,Minor,Lower Back
+21-Jan-21,6,5,0,2,1,Kirton,Site Activity,Critical,Arm
+8-Feb-20,25,5,0,6,1,Kirton,Transport,Minor,Lower Back
+28-Oct-21,22,5,0,0,1,Kirton,Transport,Critical,Finger
+25-Jul-23,12,5,0,6,1,Hoveringham,Production,Critical,Arm
+30-Nov-21,22,5,0,4,2,Hoveringham,Site Activity,Critical,Lower Back
+19-Oct-23,12,5,0,3,1,Hams Hall,Production,Major,Lower Back
+5-Feb-20,19,5,0,15,4,Desford,Site Activity,Major,Foot
+25-Aug-20,18,5,0,13,0,Kirton,Transport,Major,Foot
+19-May-22,14,5,0,3,5,Hoveringham,Production,Major,Arm
+14-Jan-23,10,5,0,14,4,Hoveringham,Site Activity,Critical,Lower Back
+11-Sep-20,6,5,0,5,3,Kings Dyke,Production,Major,Foot
+7-Sep-21,0,5,0,8,1,Kings Dyke,Maintenance,Minor,Ankle
+31-Oct-21,23,5,0,10,1,Hams Hall,Transport,Major,Arm
+28-Aug-23,8,5,0,11,4,Kings Dyke,Transport,Major,Arm
+9-Oct-22,30,5,0,3,5,Desford,Maintenance,Major,Foot
+29-Jul-23,26,5,0,9,1,Hams Hall,Site Activity,Major,Finger
+16-Oct-20,4,5,0,11,2,Hoveringham,Transport,Minor,Lower Back
+8-Aug-21,23,5,0,0,1,Hams Hall,Maintenance,Major,Foot
+15-Nov-22,6,5,0,6,4,Hams Hall,Production,Major,Arm
+31-May-21,15,5,0,0,1,Kings Dyke,Transport,Critical,Arm
+19-Apr-22,13,5,0,0,1,Kings Dyke,Maintenance,Critical,Lower Back
+28-Feb-23,15,5,0,9,1,Desford,Maintenance,Major,Finger
+13-Feb-22,10,5,0,14,1,Hoveringham,Site Activity,Critical,Foot
+20-Nov-20,26,5,0,7,2,Hoveringham,Maintenance,Major,Lower Back
+22-Feb-22,15,5,0,10,0,Hams Hall,Transport,Minor,Lower Back
+14-Aug-21,9,5,0,0,1,Kings Dyke,Transport,Major,Foot
+29-Apr-22,19,5,0,12,1,Desford,Maintenance,Minor,Foot
+13-Jun-21,7,5,0,6,2,Kirton,Production,Major,Foot
+27-Aug-20,18,5,0,4,2,Hoveringham,Site Activity,Critical,Arm
+25-Aug-21,28,5,0,10,4,Hoveringham,Transport,Major,Lower Back
+29-Jul-21,7,5,0,9,1,Desford,Site Activity,Critical,Arm
+29-Apr-21,27,5,0,7,1,Hoveringham,Production,Major,Lower Back
+4-Apr-22,5,5,0,9,1,Kings Dyke,Site Activity,Major,Foot
+26-Aug-20,25,5,0,10,4,Kirton,Site Activity,Minor,Arm
+26-Jan-22,14,5,0,12,1,Desford,Site Activity,Critical,Ankle
+10-Jul-23,1,5,0,2,3,Kings Dyke,Maintenance,Minor,Lower Back
+27-Jul-23,21,5,0,13,4,Kirton,Transport,Minor,Ankle
+20-Jul-23,1,5,0,14,0,Kirton,Production,Minor,Ankle
+27-Sep-22,9,5,0,10,5,Hams Hall,Maintenance,Critical,Finger
+6-Oct-21,12,5,0,8,1,Kings Dyke,Transport,Critical,Arm
+1-Jan-21,24,5,0,9,1,Hoveringham,Production,Critical,Arm
+26-Dec-23,5,5,0,3,2,Kings Dyke,Site Activity,Minor,Finger
+11-Mar-21,8,5,0,10,1,Kirton,Production,Major,Ankle
+31-May-20,6,5,0,2,2,Desford,Transport,Major,Ankle
+19-Jan-23,28,5,0,8,5,Kings Dyke,Maintenance,Major,Arm
+9-Apr-20,8,5,0,15,0,Desford,Transport,Major,Foot
+17-May-23,15,5,0,0,0,Hams Hall,Maintenance,Critical,Ankle
+19-Sep-22,17,5,0,7,1,Kirton,Transport,Minor,Ankle
+17-Nov-21,23,5,0,2,1,Hoveringham,Transport,Major,Lower Back
+23-Jun-22,16,5,0,3,4,Hoveringham,Site Activity,Critical,Lower Back
+30-May-22,17,5,0,10,1,Kirton,Maintenance,Major,Finger
+18-Apr-20,10,5,0,15,5,Kirton,Transport,Major,Lower Back
+12-Feb-21,5,5,0,2,1,Kirton,Production,Critical,Ankle
+21-Jan-21,2,5,0,6,1,Desford,Maintenance,Minor,Lower Back
+7-Jan-20,6,5,0,0,1,Hams Hall,Transport,Critical,Arm
+29-Sep-23,24,5,0,12,1,Kings Dyke,Maintenance,Minor,Ankle
+1-Jul-23,24,5,0,7,1,Kirton,Transport,Critical,Ankle
+22-Nov-23,9,5,0,0,2,Kings Dyke,Transport,Minor,Foot
+14-Jan-21,12,5,0,8,2,Desford,Production,Critical,Finger
+22-Dec-22,22,5,0,15,1,Kings Dyke,Transport,Major,Finger
+31-Jul-22,3,5,0,3,1,Desford,Transport,Minor,Ankle
+9-Jun-20,28,5,0,4,4,Desford,Transport,Major,Foot
+17-Nov-23,13,5,0,6,0,Hoveringham,Site Activity,Critical,Arm
+17-Oct-21,29,5,0,6,1,Kirton,Production,Minor,Foot
+13-Feb-23,6,5,0,14,1,Desford,Production,Critical,Ankle
+27-Oct-22,18,5,0,4,2,Desford,Site Activity,Minor,Ankle
+28-Sep-23,17,5,0,3,1,Hams Hall,Transport,Critical,Lower Back
+19-Oct-22,27,5,0,4,1,Hoveringham,Maintenance,Minor,Foot
+31-Mar-21,21,5,0,5,1,Hams Hall,Maintenance,Critical,Ankle
+31-Mar-23,23,5,0,13,1,Kirton,Maintenance,Critical,Arm
+28-Nov-21,23,5,0,9,2,Kirton,Maintenance,Minor,Finger
+2-Jan-21,26,5,0,5,5,Desford,Production,Minor,Finger
+1-Nov-22,6,5,0,8,5,Desford,Production,Critical,Lower Back
+9-May-23,18,5,0,9,5,Hams Hall,Production,Major,Finger
+22-Oct-21,21,5,0,13,5,Desford,Maintenance,Major,Foot
+29-Aug-23,5,5,0,9,3,Kirton,Production,Minor,Ankle
+24-Jun-23,18,5,0,2,2,Kirton,Site Activity,Minor,Ankle
+24-Aug-21,12,5,0,6,2,Desford,Transport,Critical,Arm
+16-Jun-20,16,5,0,11,1,Hams Hall,Production,Minor,Arm
+20-May-23,5,5,0,5,3,Kirton,Site Activity,Minor,Finger
+22-May-23,6,5,0,8,1,Desford,Production,Major,Lower Back
+10-Sep-20,24,5,0,11,4,Kings Dyke,Maintenance,Minor,Arm
+29-Dec-21,5,5,0,10,1,Hams Hall,Maintenance,Major,Ankle
+12-Jun-20,4,5,0,9,4,Desford,Transport,Minor,Finger
+21-Jun-20,27,5,0,0,1,Desford,Site Activity,Major,Lower Back
+14-May-23,3,5,0,0,3,Kings Dyke,Maintenance,Major,Finger
+22-Sep-21,22,5,0,5,5,Kirton,Production,Major,Finger
+31-Mar-22,23,5,0,12,1,Kirton,Maintenance,Major,Ankle
+9-Mar-20,5,5,0,7,3,Hoveringham,Site Activity,Major,Ankle
+8-Jul-21,28,5,0,15,5,Hams Hall,Maintenance,Major,Arm
+15-Nov-21,26,5,0,12,1,Desford,Site Activity,Major,Finger
+23-Nov-20,4,5,0,15,3,Desford,Transport,Critical,Ankle
+28-Nov-23,27,5,0,15,1,Kirton,Production,Major,Finger
+6-Aug-21,21,5,0,15,1,Desford,Production,Critical,Ankle
+21-May-23,11,5,0,10,1,Kings Dyke,Transport,Minor,Foot
+8-Oct-22,15,5,0,6,1,Kirton,Site Activity,Minor,Finger
+7-May-22,26,5,0,7,1,Hoveringham,Site Activity,Major,Ankle
+22-Aug-21,7,5,0,2,1,Kings Dyke,Transport,Minor,Finger
+28-Apr-20,20,5,0,4,1,Hams Hall,Site Activity,Critical,Finger
+26-May-21,7,5,0,9,0,Hoveringham,Transport,Critical,Ankle
+8-Dec-20,0,5,0,8,1,Kings Dyke,Production,Critical,Lower Back
+21-May-21,1,5,0,15,0,Kings Dyke,Maintenance,Minor,Ankle
+4-Aug-21,6,5,0,2,2,Desford,Site Activity,Critical,Lower Back
+25-Jun-23,3,5,0,10,4,Kirton,Transport,Minor,Finger
+21-Dec-20,6,5,0,2,3,Kirton,Maintenance,Critical,Foot
+9-Mar-22,22,5,1,0,1,Hams Hall,Production,Minor,Arm
+2-Apr-23,18,5,1,0,5,Kings Dyke,Site Activity,Minor,Arm
+16-Jan-21,24,5,1,9,5,Desford,Transport,Minor,Finger
+28-Dec-23,18,5,1,0,2,Hams Hall,Transport,Major,Foot
+14-Nov-23,19,5,1,0,0,Hoveringham,Transport,Critical,Lower Back
+4-Feb-22,28,5,1,0,5,Kings Dyke,Production,Major,Arm
+27-Apr-20,13,5,1,10,0,Desford,Site Activity,Minor,Ankle
+10-Jun-21,25,5,1,2,5,Hams Hall,Maintenance,Critical,Lower Back
+4-May-23,15,5,1,15,5,Desford,Site Activity,Minor,Finger
+8-Nov-22,15,5,1,0,4,Hams Hall,Site Activity,Critical,Arm
+12-Sep-21,28,5,1,3,0,Kings Dyke,Maintenance,Major,Ankle
+3-Jul-20,15,5,1,0,3,Kings Dyke,Maintenance,Critical,Finger
+30-May-21,19,5,1,0,0,Kings Dyke,Maintenance,Major,Foot
+8-Apr-22,12,5,1,0,2,Hams Hall,Transport,Major,Finger
+16-Jul-20,24,5,1,0,2,Hoveringham,Maintenance,Critical,Lower Back
+3-Nov-20,4,5,1,7,5,Kirton,Transport,Critical,Ankle
+8-May-21,8,5,1,10,4,Kirton,Production,Minor,Lower Back
+13-Jul-21,10,5,1,4,4,Kings Dyke,Production,Major,Foot
+8-Dec-20,1,5,1,4,3,Hoveringham,Transport,Minor,Arm
+24-Dec-20,24,5,1,4,0,Kirton,Site Activity,Critical,Lower Back
+4-May-20,21,5,1,4,4,Kirton,Maintenance,Minor,Foot
+24-Oct-23,18,5,1,4,2,Kirton,Transport,Minor,Ankle
+4-Oct-21,13,5,1,4,1,Kirton,Transport,Major,Arm
+15-Jan-20,15,5,1,4,0,Hams Hall,Transport,Minor,Foot
+14-Aug-21,30,5,1,9,3,Desford,Site Activity,Minor,Finger
+23-Aug-22,8,5,1,4,1,Hoveringham,Maintenance,Minor,Lower Back
+3-May-23,22,5,1,4,2,Hoveringham,Maintenance,Major,Lower Back
+26-May-22,2,5,1,4,4,Hams Hall,Site Activity,Critical,Foot
+8-Jul-20,24,5,1,14,4,Hoveringham,Production,Major,Foot
+27-Mar-23,30,5,1,4,0,Hams Hall,Production,Critical,Ankle
+24-Mar-21,28,5,1,4,2,Hoveringham,Maintenance,Critical,Foot
+19-Feb-20,18,5,1,4,4,Desford,Transport,Major,Foot
+8-Aug-21,3,5,1,4,1,Kings Dyke,Transport,Critical,Foot
+17-Jun-21,10,5,1,4,2,Kirton,Transport,Major,Finger
+10-Mar-22,4,5,1,4,2,Hams Hall,Maintenance,Minor,Ankle
+25-Jun-21,30,5,1,14,4,Hams Hall,Production,Major,Foot
+13-Apr-23,3,5,1,11,4,Kirton,Site Activity,Critical,Arm
+3-Nov-23,18,5,1,4,4,Kirton,Site Activity,Major,Finger
+10-Jul-20,15,5,1,4,4,Desford,Maintenance,Critical,Ankle
+28-Jun-21,20,5,1,11,4,Kirton,Site Activity,Critical,Lower Back
+26-Feb-23,7,5,1,7,4,Desford,Site Activity,Major,Arm
+4-Dec-23,9,5,1,14,2,Desford,Maintenance,Minor,Foot
+11-Mar-22,9,5,1,4,4,Desford,Maintenance,Minor,Ankle
+7-Jun-23,28,5,1,4,4,Desford,Site Activity,Critical,Lower Back
+1-Jan-20,11,5,1,4,2,Hams Hall,Maintenance,Major,Arm
+8-Jan-20,4,5,1,10,4,Desford,Maintenance,Major,Ankle
+30-Jan-23,7,5,1,4,4,Kirton,Site Activity,Minor,Arm
+6-Jan-23,3,5,1,4,0,Hoveringham,Production,Minor,Foot
+14-May-22,7,5,1,11,1,Hoveringham,Site Activity,Major,Lower Back
+14-May-22,18,5,1,4,2,Kings Dyke,Production,Critical,Lower Back
+25-Mar-23,24,5,1,4,4,Hoveringham,Maintenance,Critical,Foot
+15-Jan-23,4,5,1,0,4,Desford,Maintenance,Major,Lower Back
+27-Oct-20,12,5,1,8,3,Kirton,Maintenance,Major,Arm
+25-Jan-23,9,5,1,4,4,Hoveringham,Site Activity,Minor,Ankle
+16-May-23,22,5,1,0,4,Kings Dyke,Site Activity,Critical,Ankle
+19-Nov-21,12,5,1,7,0,Kirton,Transport,Critical,Ankle
+15-Mar-21,23,5,1,8,4,Kirton,Production,Major,Foot
+9-Dec-22,14,5,1,2,3,Kings Dyke,Maintenance,Minor,Lower Back
+9-Aug-20,3,5,1,1,2,Kirton,Production,Minor,Arm
+2-Nov-22,24,5,1,4,0,Hoveringham,Maintenance,Major,Foot
+14-Nov-21,2,5,1,14,4,Desford,Transport,Critical,Finger
+12-Feb-21,20,5,1,4,4,Hams Hall,Maintenance,Minor,Arm
+19-Dec-22,9,5,1,4,4,Hams Hall,Maintenance,Major,Foot
+13-Feb-23,1,5,1,4,4,Desford,Site Activity,Major,Arm
+19-Feb-21,12,5,1,4,4,Hams Hall,Transport,Major,Lower Back
+25-Apr-23,19,5,1,13,2,Kirton,Production,Major,Foot
+15-Aug-20,12,5,1,12,4,Hoveringham,Production,Minor,Lower Back
+20-Jan-23,12,5,1,14,4,Hams Hall,Production,Major,Arm
+18-Mar-20,0,5,1,4,4,Hams Hall,Site Activity,Major,Lower Back
+22-Mar-22,26,5,1,15,4,Hoveringham,Maintenance,Major,Foot
+1-Jan-20,16,5,1,4,2,Kirton,Transport,Minor,Finger
+4-Mar-20,6,5,1,11,3,Hoveringham,Site Activity,Critical,Lower Back
+12-Jul-20,25,5,1,3,2,Hoveringham,Transport,Minor,Lower Back
+17-Nov-21,19,5,1,4,3,Kirton,Site Activity,Major,Arm
+21-Nov-21,30,5,1,12,3,Hoveringham,Maintenance,Critical,Finger
+24-May-23,3,5,1,4,3,Kirton,Transport,Critical,Ankle
+21-Sep-20,22,5,1,13,5,Hoveringham,Transport,Critical,Finger
+29-Jun-20,27,5,1,5,2,Kings Dyke,Site Activity,Critical,Ankle
+13-Mar-21,24,5,1,11,3,Hams Hall,Site Activity,Critical,Foot
+18-Apr-23,13,5,1,15,0,Hams Hall,Site Activity,Major,Foot
+20-Dec-20,28,5,1,0,4,Hams Hall,Maintenance,Critical,Foot
+25-Jan-23,19,5,1,6,3,Kings Dyke,Transport,Minor,Arm
+28-Apr-23,3,5,1,4,3,Kings Dyke,Site Activity,Major,Arm
+17-Sep-21,23,5,1,4,1,Hams Hall,Transport,Minor,Ankle
+23-Dec-21,8,5,1,13,1,Hoveringham,Production,Major,Foot
+25-Nov-22,20,5,1,10,3,Kings Dyke,Transport,Critical,Finger
+11-Apr-22,4,5,1,15,4,Kings Dyke,Maintenance,Major,Lower Back
+19-Oct-20,4,5,1,4,3,Hoveringham,Transport,Critical,Ankle
+18-Mar-23,20,5,1,4,3,Kings Dyke,Site Activity,Minor,Lower Back
+11-Jan-20,1,5,1,4,3,Hoveringham,Maintenance,Critical,Arm
+9-Apr-23,21,5,1,13,3,Hoveringham,Transport,Major,Lower Back
+1-Oct-22,15,5,1,14,3,Kings Dyke,Site Activity,Critical,Foot
+1-May-23,16,5,1,4,4,Desford,Site Activity,Minor,Finger
+23-Sep-20,18,5,1,13,3,Kirton,Maintenance,Minor,Lower Back
+25-Jul-23,27,5,1,0,1,Hoveringham,Production,Critical,Finger
+22-Feb-20,14,5,1,0,3,Hoveringham,Site Activity,Critical,Arm
+26-Apr-22,30,5,1,4,3,Hams Hall,Production,Critical,Finger
+24-May-23,2,5,1,12,1,Hams Hall,Site Activity,Major,Arm
+17-Sep-21,13,5,1,4,0,Kirton,Site Activity,Major,Ankle
+22-Jun-23,12,5,1,2,4,Desford,Site Activity,Major,Finger
+19-Dec-23,27,5,1,14,1,Hams Hall,Transport,Major,Finger
+10-Jul-21,11,5,1,5,3,Kings Dyke,Production,Minor,Finger
+17-Sep-22,20,5,1,12,3,Hoveringham,Site Activity,Major,Arm
+29-Dec-21,2,5,1,5,4,Hams Hall,Maintenance,Major,Ankle
+21-Dec-23,18,5,1,4,1,Hoveringham,Production,Major,Lower Back
+10-Mar-20,10,5,1,9,3,Desford,Production,Critical,Ankle
+29-Nov-20,5,5,1,4,3,Hams Hall,Transport,Minor,Lower Back
+20-Jan-22,8,5,1,4,3,Kings Dyke,Production,Major,Lower Back
+12-Mar-20,29,5,1,4,4,Kirton,Transport,Critical,Lower Back
+4-Sep-21,8,5,1,5,3,Hams Hall,Transport,Major,Arm
+20-Mar-20,12,5,1,1,0,Kings Dyke,Maintenance,Minor,Foot
+19-Oct-23,15,5,1,4,4,Desford,Maintenance,Major,Lower Back
+4-Jul-22,13,5,1,11,4,Hams Hall,Transport,Major,Arm
+31-May-21,16,5,1,11,3,Desford,Maintenance,Minor,Arm
+20-Feb-23,7,5,1,4,4,Desford,Transport,Major,Finger
+6-May-20,29,5,1,4,0,Kings Dyke,Site Activity,Minor,Ankle
+3-Feb-22,22,5,1,15,3,Hams Hall,Site Activity,Minor,Lower Back
+6-Aug-21,15,5,1,14,3,Kirton,Site Activity,Minor,Arm
+9-Sep-23,27,5,1,0,2,Hoveringham,Production,Critical,Lower Back
+4-Nov-20,9,5,1,12,4,Hams Hall,Site Activity,Major,Foot
+7-Jun-22,18,5,1,4,3,Kings Dyke,Transport,Major,Finger
+19-Jun-23,16,5,1,4,4,Desford,Transport,Major,Ankle
+8-Apr-20,30,5,1,4,3,Kirton,Production,Critical,Arm
+16-Dec-22,19,5,1,7,1,Hoveringham,Site Activity,Critical,Lower Back
+20-Jul-22,7,5,1,7,3,Hams Hall,Site Activity,Major,Ankle
+6-Apr-20,2,5,1,9,0,Kings Dyke,Transport,Major,Finger
+9-May-22,21,5,1,11,2,Hoveringham,Transport,Minor,Ankle
+21-Oct-20,17,5,1,7,3,Kirton,Transport,Minor,Lower Back
+5-Dec-20,20,5,1,7,3,Kings Dyke,Transport,Minor,Ankle
+25-May-21,13,5,1,7,3,Kings Dyke,Site Activity,Minor,Arm
+28-Jul-22,4,5,1,14,3,Desford,Maintenance,Critical,Lower Back
+8-May-22,7,5,1,7,3,Kings Dyke,Maintenance,Major,Finger
+31-May-21,24,5,1,2,3,Hams Hall,Site Activity,Major,Lower Back
+16-Sep-20,26,5,1,4,2,Desford,Transport,Major,Ankle
+23-May-21,23,5,1,7,3,Hams Hall,Site Activity,Minor,Foot
+25-Jun-23,15,5,1,11,3,Hoveringham,Transport,Major,Ankle
+22-Dec-20,0,5,1,7,3,Kirton,Production,Minor,Lower Back
+9-Aug-22,0,5,1,7,4,Hoveringham,Site Activity,Minor,Ankle
+8-Mar-20,27,5,1,7,3,Kings Dyke,Production,Critical,Ankle
+7-Mar-21,27,5,1,7,3,Kings Dyke,Production,Critical,Arm
+1-Jan-20,20,5,1,7,4,Hoveringham,Transport,Critical,Lower Back
+11-Nov-20,7,5,1,7,3,Kings Dyke,Maintenance,Major,Foot
+4-Oct-21,14,5,1,7,3,Kings Dyke,Production,Critical,Arm
+28-Aug-21,7,5,1,9,3,Hoveringham,Transport,Minor,Arm
+8-Dec-21,13,5,1,7,4,Kings Dyke,Transport,Critical,Foot
+3-Oct-22,8,5,1,7,2,Kirton,Site Activity,Critical,Arm
+30-Apr-20,4,5,1,7,4,Kirton,Transport,Critical,Finger
+26-Sep-20,26,5,1,7,2,Kirton,Transport,Critical,Lower Back
+1-Feb-22,26,5,1,7,3,Kirton,Maintenance,Major,Ankle
+16-Aug-21,4,5,1,4,3,Hoveringham,Transport,Critical,Lower Back
+22-Dec-22,19,5,1,6,4,Desford,Transport,Critical,Lower Back
+10-Nov-22,2,5,1,7,3,Kings Dyke,Transport,Minor,Finger
+3-Jul-21,7,5,1,1,3,Kirton,Maintenance,Critical,Lower Back
+15-Sep-22,15,5,1,7,3,Hoveringham,Site Activity,Critical,Arm
+30-Mar-23,17,5,1,7,2,Desford,Maintenance,Minor,Lower Back
+21-Aug-23,13,5,1,7,3,Hams Hall,Maintenance,Minor,Foot
+28-Oct-22,26,5,1,7,3,Hoveringham,Site Activity,Major,Ankle
+18-Aug-23,16,5,1,7,3,Hams Hall,Maintenance,Minor,Foot
+28-May-23,18,5,1,7,3,Hoveringham,Production,Minor,Lower Back
+24-Jun-23,28,5,1,1,4,Kirton,Site Activity,Minor,Foot
+8-Dec-22,30,5,1,7,3,Hams Hall,Site Activity,Major,Arm
+5-Nov-22,9,5,1,7,3,Hams Hall,Transport,Critical,Ankle
+12-Mar-21,12,5,1,6,1,Desford,Transport,Major,Foot
+4-Jan-20,14,5,1,6,3,Desford,Production,Critical,Finger
+28-May-21,29,5,1,9,3,Kirton,Maintenance,Minor,Arm
+22-Nov-20,0,5,1,6,4,Hoveringham,Production,Critical,Finger
+10-May-23,6,5,1,8,3,Kirton,Maintenance,Major,Finger
+10-May-23,22,5,1,3,4,Desford,Production,Minor,Arm
+5-Jan-22,12,5,1,10,1,Desford,Transport,Minor,Foot
+24-Sep-20,14,5,1,6,4,Hoveringham,Site Activity,Minor,Foot
+26-Nov-20,19,5,1,2,3,Kings Dyke,Site Activity,Critical,Ankle
+19-Aug-21,13,5,1,6,4,Desford,Site Activity,Critical,Foot
+4-Sep-21,11,5,1,0,2,Hoveringham,Maintenance,Minor,Arm
+9-Mar-22,19,5,1,6,1,Kings Dyke,Transport,Minor,Arm
+4-Dec-21,20,5,1,8,3,Desford,Maintenance,Minor,Finger
+20-May-23,6,5,1,3,2,Kirton,Maintenance,Major,Finger
+4-Feb-21,11,5,1,6,3,Kirton,Site Activity,Major,Finger
+28-Jan-21,7,5,1,14,3,Hams Hall,Transport,Major,Ankle
+19-Feb-23,25,5,1,9,5,Hoveringham,Maintenance,Critical,Ankle
+11-Nov-22,5,5,1,0,3,Kirton,Site Activity,Minor,Ankle
+6-Jan-21,8,5,1,5,2,Hoveringham,Maintenance,Major,Ankle
+5-Dec-23,25,5,1,6,2,Desford,Maintenance,Major,Foot
+24-Aug-21,28,5,1,14,2,Hams Hall,Transport,Minor,Finger
+5-Nov-20,2,5,1,1,4,Kings Dyke,Transport,Minor,Foot
+24-Jan-23,29,5,1,6,2,Hoveringham,Production,Critical,Lower Back
+3-Sep-22,8,5,1,7,2,Desford,Site Activity,Minor,Ankle
+15-Oct-22,2,5,1,3,2,Kirton,Transport,Critical,Finger
+19-Mar-20,2,5,1,6,2,Kings Dyke,Production,Critical,Finger
+24-May-20,19,5,1,1,2,Desford,Site Activity,Major,Ankle
+20-Dec-20,7,5,1,4,2,Kirton,Transport,Major,Foot
+9-Sep-21,16,5,1,6,4,Kings Dyke,Site Activity,Minor,Foot
+3-Oct-21,30,5,1,6,2,Desford,Transport,Critical,Lower Back
+8-Nov-21,9,5,1,8,2,Desford,Production,Minor,Lower Back
+23-Apr-20,8,5,1,6,2,Hoveringham,Production,Critical,Lower Back
+15-Jun-21,11,5,1,5,2,Kings Dyke,Maintenance,Critical,Lower Back
+8-Sep-21,30,5,1,7,2,Hams Hall,Transport,Critical,Lower Back
+12-Jun-21,8,5,1,9,4,Hoveringham,Site Activity,Major,Finger
+6-Jun-23,15,5,1,3,4,Hoveringham,Production,Critical,Foot
+10-Aug-23,22,5,1,5,2,Kirton,Maintenance,Minor,Finger
+17-Nov-23,30,5,1,13,2,Kirton,Transport,Minor,Finger
+6-Jan-22,5,5,1,9,2,Kings Dyke,Transport,Critical,Ankle
+12-Jun-21,21,5,1,7,2,Kirton,Maintenance,Critical,Arm
+9-Mar-22,19,5,1,6,1,Hoveringham,Site Activity,Major,Lower Back
+16-Oct-23,8,5,1,1,2,Kings Dyke,Production,Minor,Foot
+28-Dec-20,2,5,1,13,1,Kings Dyke,Site Activity,Critical,Finger
+30-Jul-23,4,5,1,3,4,Hoveringham,Maintenance,Minor,Finger
+31-Jul-20,20,5,1,6,2,Desford,Maintenance,Minor,Arm
+4-Jan-23,7,5,1,14,3,Desford,Production,Critical,Foot
+27-Dec-21,1,5,1,6,4,Hams Hall,Maintenance,Minor,Finger
+9-Jul-20,13,5,1,4,2,Hams Hall,Transport,Critical,Arm
+7-Dec-23,18,5,1,6,2,Kings Dyke,Production,Major,Finger
+8-May-23,12,5,1,0,2,Desford,Site Activity,Critical,Arm
+24-Nov-22,1,5,1,6,2,Kings Dyke,Production,Critical,Arm
+26-Jul-21,27,5,1,6,1,Hoveringham,Production,Critical,Foot
+20-Jan-22,25,5,1,3,2,Kirton,Transport,Minor,Finger
+4-Oct-20,4,5,1,1,2,Desford,Maintenance,Major,Arm
+13-Sep-23,24,5,1,6,2,Kirton,Maintenance,Critical,Arm
+19-Aug-20,26,5,1,6,2,Kings Dyke,Production,Minor,Lower Back
+3-Sep-20,12,5,1,6,2,Kings Dyke,Transport,Critical,Finger
+8-Sep-22,22,5,1,10,2,Hams Hall,Production,Major,Lower Back
+17-Oct-21,24,5,1,9,2,Hoveringham,Site Activity,Minor,Arm
+2-Mar-23,8,5,1,6,0,Kirton,Maintenance,Major,Foot
+14-Dec-21,4,5,1,6,3,Hoveringham,Production,Major,Lower Back
+30-May-22,6,5,1,6,3,Hoveringham,Production,Critical,Ankle
+7-Jul-20,11,5,1,14,2,Kirton,Maintenance,Major,Lower Back
+26-May-22,16,5,1,6,2,Hoveringham,Maintenance,Critical,Finger
+14-Aug-22,2,5,1,6,0,Kirton,Site Activity,Critical,Lower Back
+31-Oct-20,3,5,1,6,4,Kings Dyke,Production,Major,Foot
+26-Oct-21,4,5,1,6,2,Desford,Maintenance,Major,Ankle
+19-Nov-21,19,5,1,6,4,Desford,Production,Major,Lower Back
+12-May-23,3,5,1,14,2,Hoveringham,Transport,Minor,Foot
+3-Dec-21,24,5,1,12,2,Kirton,Maintenance,Major,Arm
+20-Apr-22,25,5,1,6,2,Kirton,Production,Major,Arm
+11-May-23,19,5,1,13,3,Desford,Transport,Minor,Arm
+14-Feb-23,6,5,1,11,2,Kirton,Transport,Critical,Arm
+13-Feb-23,16,5,1,4,2,Kings Dyke,Site Activity,Major,Ankle
+4-Feb-20,23,5,1,13,4,Kings Dyke,Maintenance,Major,Arm
+26-Jan-20,15,5,1,6,2,Hoveringham,Site Activity,Major,Foot
+18-Nov-23,25,5,1,3,2,Hoveringham,Production,Minor,Lower Back
+20-Apr-23,6,5,1,5,2,Hams Hall,Transport,Critical,Ankle
+10-Aug-22,30,5,1,6,2,Kirton,Production,Minor,Arm
+27-Apr-21,20,5,1,6,2,Hams Hall,Maintenance,Critical,Lower Back
+5-Apr-23,9,5,1,15,0,Hoveringham,Maintenance,Minor,Finger
+5-May-22,11,5,1,6,5,Kirton,Site Activity,Minor,Lower Back
+24-Jan-21,14,5,1,0,2,Hoveringham,Site Activity,Major,Finger
+21-Apr-21,13,5,1,4,2,Kirton,Maintenance,Major,Arm
+27-Jan-21,20,5,1,6,2,Hams Hall,Site Activity,Critical,Foot
+22-Feb-21,9,5,1,5,3,Kirton,Production,Minor,Ankle
+1-Dec-23,24,5,1,6,2,Hoveringham,Transport,Minor,Arm
+19-Aug-20,19,5,1,6,2,Desford,Site Activity,Minor,Lower Back
+4-Apr-22,20,5,1,6,2,Desford,Production,Critical,Ankle
+18-Dec-23,3,5,1,6,2,Kirton,Transport,Critical,Ankle
+13-Mar-20,7,5,1,1,3,Kirton,Production,Minor,Foot
+29-Apr-22,1,5,1,4,4,Kings Dyke,Maintenance,Critical,Finger
+28-Sep-20,5,5,1,5,2,Kings Dyke,Transport,Critical,Finger
+13-Apr-23,6,5,1,6,1,Hoveringham,Production,Critical,Ankle
+24-Sep-23,16,5,1,9,4,Kings Dyke,Site Activity,Major,Lower Back
+5-Feb-20,6,5,1,1,1,Kings Dyke,Transport,Minor,Lower Back
+28-Aug-22,6,5,1,7,1,Hoveringham,Site Activity,Major,Finger
+18-Dec-21,0,5,1,8,3,Kings Dyke,Production,Critical,Ankle
+12-Apr-23,27,5,1,8,2,Kirton,Production,Minor,Arm
+30-Apr-23,2,5,1,15,4,Kirton,Maintenance,Critical,Lower Back
+17-Jun-22,3,5,1,1,4,Hoveringham,Production,Minor,Arm
+23-Jul-23,1,5,1,12,1,Kirton,Maintenance,Major,Foot
+8-Apr-23,10,5,1,1,1,Hoveringham,Transport,Critical,Lower Back
+27-Oct-20,23,5,1,1,2,Hoveringham,Maintenance,Critical,Foot
+10-Mar-20,6,5,1,1,1,Hoveringham,Maintenance,Minor,Arm
+13-Sep-23,17,5,1,1,2,Desford,Production,Minor,Arm
+11-Jul-22,17,5,1,7,1,Hoveringham,Transport,Major,Ankle
+8-Feb-20,22,5,1,1,1,Hoveringham,Maintenance,Critical,Finger
+24-Mar-20,19,5,1,15,1,Kings Dyke,Production,Critical,Foot
+5-May-21,15,5,1,11,2,Desford,Production,Minor,Arm
+31-Jan-21,18,5,1,1,0,Kirton,Transport,Major,Arm
+14-Jun-20,17,5,1,1,1,Hams Hall,Site Activity,Critical,Ankle
+19-Mar-23,15,5,1,4,3,Kirton,Site Activity,Critical,Finger
+1-Sep-22,13,5,1,1,0,Hoveringham,Maintenance,Critical,Foot
+24-Jan-23,26,5,1,1,1,Kings Dyke,Site Activity,Major,Finger
+8-Aug-20,3,5,1,12,1,Kirton,Production,Minor,Finger
+13-May-23,22,5,1,10,1,Hoveringham,Production,Critical,Finger
+23-Nov-22,2,5,1,1,2,Desford,Production,Minor,Finger
+28-Nov-22,10,5,1,1,1,Kirton,Production,Major,Ankle
+1-Oct-21,23,5,1,1,4,Kirton,Transport,Minor,Arm
+3-Oct-23,8,5,2,6,0,Hoveringham,Site Activity,Minor,Finger
+4-Mar-22,14,5,2,0,2,Hoveringham,Production,Minor,Lower Back
+31-May-21,0,5,2,2,5,Kirton,Production,Minor,Ankle
+30-Jun-20,19,5,2,12,0,Kings Dyke,Maintenance,Critical,Lower Back
+7-Dec-20,1,5,2,9,2,Kirton,Maintenance,Critical,Foot
+4-Nov-20,19,5,2,0,2,Hams Hall,Maintenance,Minor,Finger
+25-Feb-23,9,5,2,12,0,Hams Hall,Transport,Major,Finger
+12-Jan-22,26,5,2,0,0,Kings Dyke,Production,Critical,Ankle
+3-Nov-22,26,5,2,8,0,Hoveringham,Maintenance,Major,Arm
+18-Apr-22,10,5,2,4,3,Kirton,Site Activity,Major,Foot
+20-May-22,27,5,2,0,3,Hams Hall,Maintenance,Major,Ankle
+7-Jul-20,3,5,2,0,5,Desford,Maintenance,Critical,Finger
+21-Aug-22,19,5,2,2,0,Kings Dyke,Production,Minor,Finger
+13-Aug-22,11,5,2,0,3,Kirton,Maintenance,Major,Lower Back
+6-Nov-20,8,5,2,0,0,Hams Hall,Site Activity,Major,Arm
+22-Jun-21,26,5,2,0,3,Hams Hall,Transport,Critical,Foot
+25-Mar-21,10,5,2,0,2,Desford,Site Activity,Critical,Arm
+20-Apr-22,21,5,2,0,3,Hoveringham,Maintenance,Major,Arm
+28-Apr-20,18,5,2,1,0,Desford,Site Activity,Major,Lower Back
+20-Feb-20,2,5,2,6,1,Hoveringham,Transport,Critical,Arm
+8-Jan-23,17,5,2,13,2,Hoveringham,Production,Critical,Finger
+10-Jul-22,20,5,2,12,2,Desford,Transport,Major,Arm
+30-Nov-23,9,5,2,4,2,Kirton,Maintenance,Minor,Arm
+30-Oct-23,21,5,2,4,0,Hoveringham,Site Activity,Critical,Foot
+10-Sep-20,11,5,2,0,2,Kirton,Maintenance,Critical,Ankle
+25-Jun-22,14,5,2,4,0,Hams Hall,Maintenance,Minor,Ankle
+3-Nov-20,19,5,2,5,2,Hoveringham,Site Activity,Major,Foot
+9-Sep-22,13,5,2,4,2,Kirton,Production,Major,Ankle
+20-May-23,11,5,2,4,3,Hams Hall,Site Activity,Minor,Foot
+8-Apr-20,18,5,2,10,2,Hams Hall,Site Activity,Major,Foot
+29-Apr-20,12,5,2,4,3,Kings Dyke,Production,Major,Ankle
+8-Dec-20,17,5,2,2,5,Hams Hall,Transport,Critical,Foot
+7-Jan-21,7,5,2,8,0,Kings Dyke,Maintenance,Minor,Lower Back
+30-Jan-23,16,5,2,13,2,Kings Dyke,Maintenance,Critical,Ankle
+28-Jul-22,0,5,2,3,2,Desford,Site Activity,Critical,Lower Back
+11-Oct-20,5,5,2,13,3,Kirton,Transport,Minor,Lower Back
+1-Oct-22,8,5,2,2,5,Kings Dyke,Transport,Major,Arm
+22-Dec-20,18,5,2,4,2,Desford,Transport,Critical,Foot
+14-Feb-22,13,5,2,4,3,Hoveringham,Production,Major,Lower Back
+5-Sep-22,29,5,2,2,3,Desford,Production,Major,Ankle
+3-Feb-23,20,5,2,7,2,Hams Hall,Site Activity,Major,Lower Back
+23-Jul-22,27,5,2,10,2,Hoveringham,Transport,Minor,Arm
+7-Sep-22,21,5,2,4,2,Hams Hall,Transport,Critical,Lower Back
+21-Aug-22,16,5,2,7,2,Kirton,Production,Major,Arm
+7-Feb-20,3,5,2,6,5,Desford,Maintenance,Major,Finger
+5-Dec-23,19,5,2,4,1,Hams Hall,Site Activity,Critical,Ankle
+28-Feb-23,14,5,2,4,1,Hams Hall,Site Activity,Critical,Finger
+6-Apr-22,22,5,2,13,3,Hams Hall,Maintenance,Critical,Finger
+29-Jul-20,17,5,2,4,0,Desford,Production,Critical,Arm
+19-Jul-21,15,5,2,15,2,Kings Dyke,Maintenance,Minor,Lower Back
+15-May-20,1,5,2,4,1,Kings Dyke,Transport,Critical,Arm
+26-Feb-20,26,5,2,4,3,Kings Dyke,Maintenance,Major,Ankle
+28-Feb-21,7,5,2,15,3,Hams Hall,Maintenance,Major,Ankle
+11-Jan-20,30,5,2,9,2,Kirton,Production,Critical,Foot
+25-Jan-20,19,5,2,7,2,Kings Dyke,Production,Minor,Foot
+13-Jul-23,18,5,2,4,0,Kirton,Site Activity,Critical,Foot
+31-May-23,25,5,2,0,3,Desford,Site Activity,Major,Arm
+10-Nov-21,7,5,2,4,0,Hams Hall,Transport,Major,Foot
+5-Nov-23,29,5,2,4,0,Desford,Maintenance,Major,Arm
+22-Feb-20,22,5,2,9,0,Kings Dyke,Transport,Critical,Foot
+20-Jan-22,16,5,2,4,3,Hams Hall,Site Activity,Minor,Arm
+19-Feb-21,26,5,2,7,3,Kirton,Transport,Critical,Ankle
+7-Jan-23,6,5,2,13,1,Kings Dyke,Production,Minor,Ankle
+13-Feb-20,23,5,2,7,2,Desford,Transport,Major,Arm
+11-Dec-23,16,5,2,7,3,Hams Hall,Maintenance,Critical,Arm
+14-Feb-21,28,5,2,0,3,Kirton,Maintenance,Major,Arm
+11-Dec-21,0,5,2,7,1,Hams Hall,Maintenance,Major,Ankle
+13-Apr-23,25,5,2,4,3,Hoveringham,Maintenance,Critical,Ankle
+9-Feb-20,4,5,2,2,3,Kirton,Maintenance,Major,Ankle
+8-Jan-21,6,5,2,7,2,Kings Dyke,Transport,Minor,Ankle
+23-Nov-23,26,5,2,7,3,Hoveringham,Production,Major,Ankle
+3-Apr-21,6,5,2,2,3,Kings Dyke,Site Activity,Critical,Finger
+20-Oct-21,28,5,2,7,3,Hoveringham,Transport,Minor,Finger
+22-Jun-23,25,5,2,7,1,Kings Dyke,Maintenance,Critical,Foot
+7-Jul-23,0,5,2,0,3,Kings Dyke,Production,Minor,Foot
+24-Dec-23,24,5,2,14,2,Kirton,Production,Critical,Finger
+27-Dec-23,16,5,2,15,3,Hams Hall,Maintenance,Major,Ankle
+1-Mar-22,11,5,2,13,2,Kirton,Maintenance,Critical,Arm
+31-Jan-23,5,5,2,2,0,Kings Dyke,Site Activity,Minor,Arm
+14-Oct-21,26,5,2,6,3,Hams Hall,Transport,Minor,Finger
+18-Sep-20,18,5,2,6,1,Desford,Production,Critical,Arm
+29-Oct-20,2,5,2,3,1,Desford,Site Activity,Major,Ankle
+2-Jun-20,23,5,2,1,1,Kirton,Production,Minor,Finger
+18-Mar-20,20,5,2,4,3,Kings Dyke,Site Activity,Minor,Ankle
+22-Jul-21,21,5,2,4,1,Kirton,Production,Minor,Finger
+14-Oct-23,6,5,2,6,4,Hams Hall,Production,Minor,Lower Back
+16-Dec-22,13,5,2,3,4,Desford,Site Activity,Major,Ankle
+31-Aug-22,21,5,2,8,4,Kings Dyke,Maintenance,Minor,Finger
+4-Mar-23,1,5,2,14,4,Hoveringham,Site Activity,Minor,Finger
+19-Jul-20,7,5,2,4,4,Hoveringham,Production,Critical,Finger
+22-Aug-23,11,5,2,9,4,Kirton,Site Activity,Critical,Finger
+13-Sep-20,16,5,2,0,4,Hoveringham,Maintenance,Minor,Ankle
+17-Sep-20,7,5,2,0,4,Desford,Site Activity,Critical,Finger
+21-Nov-23,26,5,2,6,4,Hoveringham,Transport,Minor,Finger
+28-Jul-21,13,5,2,0,4,Hams Hall,Production,Critical,Ankle
+1-May-22,4,5,2,9,4,Hoveringham,Site Activity,Minor,Arm
+12-Mar-23,22,5,2,13,4,Hoveringham,Site Activity,Minor,Foot
+11-Nov-23,6,5,2,9,4,Kings Dyke,Maintenance,Minor,Lower Back
+30-Nov-21,25,5,2,8,4,Hams Hall,Maintenance,Major,Finger
+3-Apr-22,12,5,2,10,4,Hams Hall,Transport,Major,Lower Back
+8-Jan-22,4,5,2,4,4,Desford,Maintenance,Minor,Lower Back
+12-Jul-23,19,5,2,4,4,Kirton,Maintenance,Major,Arm
+27-Jul-22,27,5,2,4,4,Hoveringham,Site Activity,Critical,Finger
+27-Oct-21,29,5,2,4,4,Kirton,Site Activity,Major,Arm
+21-Jun-20,30,5,2,7,4,Hoveringham,Production,Minor,Finger
+10-Dec-21,0,5,2,4,4,Kings Dyke,Transport,Critical,Lower Back
+16-Aug-21,2,5,2,4,4,Hoveringham,Site Activity,Minor,Finger
+18-Apr-23,12,5,2,4,4,Desford,Transport,Major,Foot
+12-Nov-23,21,5,2,14,4,Kings Dyke,Maintenance,Minor,Finger
+5-May-22,5,5,2,9,4,Kirton,Maintenance,Major,Lower Back
+1-Jun-22,19,5,2,8,4,Hoveringham,Production,Minor,Ankle
+15-Jan-20,3,5,2,4,4,Kirton,Maintenance,Major,Lower Back
+16-Nov-22,24,5,2,13,4,Kirton,Production,Critical,Arm
+1-Mar-21,2,5,2,4,4,Kirton,Maintenance,Major,Foot
+25-Jun-20,30,5,2,8,4,Kirton,Transport,Major,Foot
+5-Jul-21,6,5,2,4,4,Kings Dyke,Production,Major,Lower Back
+3-May-22,24,5,2,4,4,Desford,Site Activity,Minor,Finger
+8-Sep-21,24,5,2,4,4,Desford,Site Activity,Major,Arm
+8-Jul-22,15,5,2,9,4,Kirton,Production,Major,Finger
+1-Jun-20,23,5,2,4,4,Hoveringham,Transport,Minor,Lower Back
+12-Jul-21,30,5,2,4,4,Hams Hall,Site Activity,Major,Arm
+26-Dec-20,29,5,2,11,4,Desford,Maintenance,Critical,Foot
+28-Nov-23,18,5,2,4,4,Desford,Transport,Critical,Lower Back
+18-Aug-22,2,5,2,9,4,Kirton,Transport,Major,Arm
+17-Oct-20,3,5,2,10,4,Kings Dyke,Production,Critical,Foot
+3-Jun-22,15,5,2,4,4,Kings Dyke,Site Activity,Critical,Lower Back
+24-Feb-21,7,5,2,12,4,Hoveringham,Production,Major,Arm
+3-May-21,6,5,2,4,4,Hoveringham,Site Activity,Major,Foot
+25-Mar-21,22,5,2,4,4,Kirton,Transport,Major,Arm
+11-Mar-22,29,5,2,15,4,Kirton,Transport,Minor,Finger
+11-Feb-22,7,5,2,4,4,Kirton,Maintenance,Critical,Finger
+3-Nov-23,14,5,2,4,4,Kirton,Maintenance,Major,Finger
+29-Apr-23,24,5,2,4,4,Desford,Production,Critical,Foot
+22-Jan-22,8,5,2,12,4,Hoveringham,Site Activity,Major,Ankle
+8-Oct-23,20,5,2,6,4,Kings Dyke,Production,Major,Lower Back
+13-Jan-23,17,5,2,14,4,Hams Hall,Production,Minor,Lower Back
+16-May-23,0,5,2,4,4,Kings Dyke,Site Activity,Critical,Foot
+14-Mar-21,30,5,2,4,4,Kings Dyke,Production,Major,Lower Back
+14-Apr-23,8,5,2,4,4,Hoveringham,Transport,Major,Arm
+8-Feb-22,0,5,2,9,4,Desford,Maintenance,Major,Finger
+27-Oct-20,13,5,2,4,4,Kings Dyke,Maintenance,Critical,Foot
+28-Sep-21,30,5,2,7,4,Hams Hall,Production,Critical,Foot
+5-May-21,15,5,2,7,4,Kings Dyke,Maintenance,Major,Finger
+5-Jun-20,6,5,2,11,4,Hams Hall,Production,Major,Ankle
+12-Mar-23,24,5,2,10,4,Hoveringham,Production,Major,Lower Back
+7-Sep-23,6,5,2,2,4,Hams Hall,Site Activity,Critical,Ankle
+19-Mar-20,4,5,2,11,4,Hoveringham,Transport,Critical,Lower Back
+9-Mar-20,8,5,2,7,4,Kings Dyke,Transport,Critical,Ankle
+12-Jan-21,1,5,2,2,4,Hams Hall,Site Activity,Critical,Lower Back
+2-Jul-23,23,5,2,6,4,Kirton,Maintenance,Major,Lower Back
+6-Jul-21,20,6,2,15,3,Kirton,Transport,Critical,Arm
+13-Dec-23,17,7,2,11,2,Desford,Production,Critical,Ankle
+4-Oct-21,0,16,2,0,2,Kings Dyke,Site Activity,Critical,Foot
+10-Apr-22,27,20,2,0,2,Hoveringham,Site Activity,Major,Ankle
+12-Jan-23,29,15,2,12,2,Desford,Transport,Critical,Ankle
+7-Nov-20,22,14,2,9,3,Desford,Production,Critical,Finger
+16-Feb-22,18,15,2,0,5,Kings Dyke,Maintenance,Critical,Ankle
+29-Mar-21,7,7,2,15,0,Kirton,Site Activity,Minor,Ankle
+10-Sep-21,13,7,2,14,2,Desford,Maintenance,Major,Foot
+30-Oct-20,28,6,2,6,2,Hams Hall,Transport,Critical,Finger
+11-Nov-20,16,11,2,6,0,Kirton,Production,Minor,Arm
+27-May-21,26,3,2,4,2,Kings Dyke,Site Activity,Minor,Lower Back
+2-Apr-22,27,15,2,7,0,Hoveringham,Transport,Minor,Finger
+5-Jul-22,29,15,2,1,0,Desford,Production,Minor,Arm
+18-Feb-23,5,16,2,4,1,Kirton,Maintenance,Minor,Finger
+11-Mar-22,27,7,2,5,3,Kirton,Production,Major,Arm
+6-Feb-22,13,15,2,13,0,Kings Dyke,Site Activity,Major,Foot
+18-Apr-23,2,11,2,4,2,Hams Hall,Maintenance,Critical,Lower Back
+26-Dec-22,3,9,2,11,0,Kings Dyke,Transport,Minor,Ankle
+23-Aug-22,29,0,2,9,2,Kings Dyke,Transport,Minor,Arm
+26-Jan-21,9,13,2,4,0,Kings Dyke,Production,Major,Lower Back
+21-Dec-20,30,0,2,13,2,Desford,Production,Major,Arm
+2-Nov-21,10,3,2,4,2,Hams Hall,Maintenance,Major,Finger
+4-Dec-23,18,3,2,6,5,Hoveringham,Transport,Major,Lower Back
+7-Oct-23,10,12,2,12,3,Kings Dyke,Maintenance,Major,Arm
+1-Apr-21,1,16,2,4,0,Hams Hall,Site Activity,Major,Foot
+9-Nov-20,1,13,2,7,2,Kings Dyke,Production,Minor,Arm
+21-Jun-21,12,8,2,8,2,Desford,Site Activity,Minor,Arm
+14-Nov-23,5,13,2,4,2,Desford,Site Activity,Minor,Lower Back
+5-Jan-22,18,16,2,9,2,Desford,Maintenance,Minor,Ankle
+15-Apr-20,1,8,2,4,0,Kirton,Maintenance,Critical,Finger
+13-May-23,25,16,2,6,2,Kings Dyke,Site Activity,Critical,Lower Back
+8-Apr-22,12,14,2,4,3,Hoveringham,Site Activity,Minor,Lower Back
+17-Jun-20,4,13,2,7,2,Hoveringham,Transport,Major,Finger
+18-Jul-20,6,11,2,4,2,Hams Hall,Transport,Critical,Ankle
+5-Jul-20,3,16,2,4,2,Kirton,Production,Major,Ankle
+19-Feb-23,6,9,2,0,3,Kings Dyke,Site Activity,Minor,Arm
+19-Dec-20,6,6,2,4,1,Hoveringham,Production,Critical,Arm
+2-Dec-21,16,15,2,12,3,Hams Hall,Site Activity,Major,Ankle
+30-May-23,1,14,2,4,3,Hams Hall,Maintenance,Major,Ankle
+27-Jun-21,9,8,2,7,2,Kirton,Transport,Critical,Lower Back
+10-Jan-21,18,14,2,6,1,Kirton,Transport,Critical,Foot
+14-Oct-22,29,14,2,2,2,Kings Dyke,Production,Major,Foot
+5-Nov-21,12,10,2,4,3,Kirton,Site Activity,Minor,Lower Back
+29-Jul-23,2,7,2,4,2,Desford,Production,Critical,Lower Back
+17-May-21,22,10,2,7,3,Hoveringham,Site Activity,Minor,Foot
+10-Feb-20,6,14,2,10,3,Desford,Maintenance,Critical,Arm
+1-Mar-21,19,13,2,12,3,Hams Hall,Production,Major,Lower Back
+3-Apr-20,7,1,2,7,1,Desford,Transport,Critical,Arm
+20-Aug-23,28,6,2,7,3,Desford,Site Activity,Minor,Ankle
+1-Feb-23,30,0,2,15,3,Hams Hall,Site Activity,Critical,Arm
+27-Oct-23,2,8,2,0,3,Kirton,Site Activity,Critical,Foot
+11-Sep-23,21,10,2,3,3,Kirton,Maintenance,Major,Lower Back
+18-Jun-20,15,16,2,7,5,Hams Hall,Transport,Minor,Finger
+23-Nov-21,4,0,2,4,3,Kings Dyke,Maintenance,Major,Finger
+23-Jun-23,19,14,2,8,3,Hoveringham,Maintenance,Major,Ankle
+23-Nov-23,28,15,2,7,3,Desford,Transport,Major,Arm
+17-May-22,21,16,2,5,3,Hoveringham,Transport,Minor,Finger
+8-Dec-21,15,4,2,7,3,Desford,Site Activity,Minor,Lower Back
+16-Apr-23,20,7,2,8,3,Desford,Production,Critical,Lower Back
+5-Aug-21,20,12,2,15,3,Kirton,Production,Critical,Arm
+22-Mar-20,18,6,2,5,2,Hams Hall,Production,Minor,Ankle
+27-Apr-23,13,7,2,7,3,Desford,Production,Critical,Finger
+28-Mar-22,23,2,2,7,1,Kirton,Transport,Critical,Arm
+27-May-23,23,1,2,7,3,Kings Dyke,Maintenance,Major,Lower Back
+21-Aug-22,5,14,2,7,3,Hams Hall,Site Activity,Major,Finger
+28-Apr-22,28,13,2,7,3,Hams Hall,Production,Major,Finger
+29-Sep-20,26,14,2,7,3,Kirton,Transport,Major,Finger
+9-May-21,1,14,2,7,3,Kirton,Site Activity,Major,Finger
+4-Dec-22,17,3,2,5,1,Hoveringham,Site Activity,Critical,Lower Back
+17-Nov-21,20,12,2,7,3,Kirton,Site Activity,Major,Lower Back
+9-Jul-23,7,13,2,14,3,Kings Dyke,Production,Major,Finger
+14-Apr-23,1,11,2,7,3,Kings Dyke,Production,Minor,Lower Back
+5-May-20,27,9,2,9,1,Kirton,Maintenance,Critical,Arm
+23-Aug-21,18,10,2,6,3,Desford,Transport,Critical,Foot
+1-Feb-22,17,13,2,2,3,Hams Hall,Production,Major,Foot
+10-Oct-22,19,1,2,6,5,Hams Hall,Production,Major,Arm
+28-Mar-20,10,7,2,12,2,Hoveringham,Maintenance,Minor,Lower Back
+20-Nov-20,18,12,2,0,2,Kirton,Maintenance,Major,Finger
+20-Jun-21,10,14,2,15,5,Hams Hall,Production,Major,Ankle
+31-Aug-21,9,10,2,1,1,Hoveringham,Production,Minor,Foot
+23-Dec-23,13,13,2,4,1,Hoveringham,Maintenance,Major,Ankle
+15-May-23,21,7,2,1,2,Desford,Site Activity,Minor,Lower Back
+19-Apr-20,1,2,2,1,5,Kings Dyke,Production,Minor,Ankle
+19-May-21,21,8,2,9,2,Kirton,Production,Major,Arm
+14-Oct-20,2,6,2,4,1,Hams Hall,Transport,Minor,Lower Back
+31-Mar-23,0,15,2,0,4,Kings Dyke,Site Activity,Major,Arm
+24-Aug-20,11,11,2,0,4,Kings Dyke,Maintenance,Minor,Finger
+20-Aug-23,16,22,2,8,4,Hoveringham,Production,Critical,Finger
+26-Jul-21,18,24,2,9,4,Kirton,Production,Critical,Arm
+1-Mar-20,20,20,2,0,4,Hams Hall,Maintenance,Critical,Lower Back
+12-Jun-23,22,28,2,5,4,Hoveringham,Site Activity,Major,Arm
+21-Jan-22,9,25,2,0,4,Hoveringham,Site Activity,Minor,Lower Back
+10-Jun-22,11,16,2,7,4,Kirton,Production,Major,Ankle
+1-Nov-23,30,9,2,0,4,Hams Hall,Production,Minor,Finger
+8-Dec-23,25,9,2,1,4,Desford,Site Activity,Critical,Arm
+15-Nov-20,30,15,2,6,4,Hams Hall,Production,Major,Ankle
+23-Oct-23,2,0,2,8,4,Desford,Site Activity,Major,Foot
+20-Apr-22,4,16,2,14,4,Kings Dyke,Transport,Minor,Lower Back
+18-Sep-22,19,9,2,3,4,Hoveringham,Site Activity,Critical,Ankle
+28-Nov-21,5,6,2,0,4,Kings Dyke,Site Activity,Critical,Finger
+21-May-23,17,11,2,13,4,Kirton,Production,Critical,Ankle
+24-Apr-22,26,8,2,10,4,Desford,Transport,Major,Lower Back
+14-Dec-20,1,9,2,0,4,Desford,Production,Critical,Lower Back
+8-Feb-20,0,10,2,3,4,Desford,Maintenance,Critical,Finger
+9-Oct-20,21,1,2,4,4,Kings Dyke,Transport,Critical,Foot
+30-Jun-20,10,2,2,4,4,Kings Dyke,Production,Critical,Arm
+2-Jun-23,12,11,2,5,4,Kings Dyke,Site Activity,Critical,Ankle
+1-May-20,29,0,2,4,4,Hoveringham,Maintenance,Major,Arm
+29-Sep-23,27,11,2,6,4,Hoveringham,Production,Critical,Lower Back
+18-May-21,2,0,2,10,4,Kirton,Transport,Critical,Arm
+13-Dec-20,20,8,2,14,4,Hams Hall,Site Activity,Major,Arm
+18-Feb-21,26,12,2,4,4,Desford,Maintenance,Major,Lower Back
+13-Apr-22,25,6,2,4,4,Kings Dyke,Transport,Critical,Ankle
+17-Apr-23,17,0,2,4,4,Desford,Site Activity,Major,Foot
+30-Sep-21,17,9,2,4,4,Kirton,Production,Minor,Foot
+10-Mar-22,5,10,2,4,4,Kirton,Maintenance,Major,Finger
+19-Dec-23,20,4,2,12,4,Hoveringham,Maintenance,Critical,Arm
+20-May-20,11,13,2,2,4,Kings Dyke,Maintenance,Major,Ankle
+10-Sep-21,23,1,2,4,4,Kings Dyke,Production,Critical,Lower Back
+2-Mar-22,28,14,2,15,4,Kirton,Production,Minor,Foot
+4-May-23,21,4,2,14,4,Hams Hall,Transport,Major,Lower Back
+9-Jan-22,6,13,2,6,4,Desford,Production,Critical,Lower Back
+17-Jun-21,17,14,2,9,4,Kings Dyke,Site Activity,Critical,Finger
+13-Aug-20,17,16,2,4,4,Hoveringham,Production,Major,Finger
+10-Feb-21,7,4,2,4,4,Kirton,Maintenance,Minor,Ankle
+21-Dec-21,2,15,2,10,4,Desford,Site Activity,Major,Finger
+4-Sep-23,2,15,2,12,4,Desford,Production,Major,Arm
+21-Jun-23,6,13,2,4,4,Kings Dyke,Transport,Minor,Foot
+24-Aug-23,1,4,2,4,4,Kirton,Transport,Minor,Arm
+3-Jun-20,1,15,2,4,4,Desford,Production,Major,Lower Back
+31-Jan-22,12,8,2,4,4,Desford,Site Activity,Minor,Foot
+19-Dec-23,0,9,2,10,4,Kings Dyke,Transport,Major,Finger
+9-Jun-23,20,11,2,4,4,Kirton,Production,Major,Foot
+29-Mar-22,0,2,2,15,4,Kings Dyke,Production,Major,Foot
+15-Jun-23,26,14,2,3,4,Hoveringham,Transport,Minor,Finger
+1-Sep-22,13,2,2,4,4,Kings Dyke,Maintenance,Critical,Arm
+9-Sep-23,15,11,2,4,4,Desford,Maintenance,Critical,Foot
+7-Sep-23,23,16,2,4,4,Kings Dyke,Maintenance,Critical,Ankle
+1-Jan-23,12,0,2,2,4,Desford,Maintenance,Minor,Foot
+5-Jan-23,8,4,2,5,4,Hoveringham,Site Activity,Major,Lower Back
+23-Sep-23,27,9,2,9,4,Hams Hall,Maintenance,Critical,Foot
+11-Jul-20,9,4,2,5,4,Hams Hall,Production,Critical,Foot
+12-Aug-20,14,2,2,4,4,Kings Dyke,Production,Minor,Foot
+20-Nov-20,24,8,2,4,4,Kings Dyke,Transport,Major,Arm
+31-Jul-20,20,0,2,5,4,Hams Hall,Site Activity,Major,Finger
+10-Sep-20,6,15,2,7,4,Hoveringham,Maintenance,Major,Lower Back
+21-Jan-21,4,12,2,1,4,Hoveringham,Site Activity,Minor,Lower Back
+16-Nov-23,12,15,2,7,4,Kings Dyke,Production,Critical,Finger
+12-Dec-21,6,8,2,7,4,Hams Hall,Transport,Minor,Ankle
+9-Jan-20,21,1,2,15,4,Kings Dyke,Transport,Major,Lower Back
+30-Apr-21,2,6,2,7,4,Hoveringham,Maintenance,Critical,Foot
+26-Jan-20,15,11,2,6,4,Desford,Site Activity,Minor,Lower Back
+18-Jul-20,9,8,2,9,4,Kirton,Production,Minor,Foot
+13-Feb-21,17,2,0,0,5,Kings Dyke,Maintenance,Minor,Ankle
+28-Feb-20,19,8,0,3,5,Desford,Production,Major,Finger
+14-Aug-23,10,8,0,5,1,Hams Hall,Production,Major,Lower Back
+4-Dec-22,14,6,0,0,5,Kirton,Site Activity,Minor,Foot
+27-Jun-23,9,7,0,0,4,Kirton,Transport,Critical,Lower Back
+5-Sep-23,6,15,0,15,0,Hoveringham,Maintenance,Minor,Finger
+24-Sep-20,24,22,0,2,2,Desford,Site Activity,Critical,Ankle
+21-Aug-23,19,0,0,8,0,Kings Dyke,Site Activity,Major,Lower Back
+17-Feb-20,17,4,0,9,4,Hams Hall,Production,Major,Finger
+9-Aug-22,6,14,0,4,4,Kings Dyke,Site Activity,Major,Foot
+6-Feb-22,12,2,0,15,0,Hoveringham,Transport,Major,Ankle
+4-May-20,29,8,0,4,2,Kirton,Site Activity,Minor,Foot
+9-Aug-23,4,12,0,4,4,Hams Hall,Maintenance,Critical,Finger
+4-Apr-21,23,14,0,4,5,Hoveringham,Maintenance,Major,Lower Back
+18-Nov-23,2,1,0,9,4,Hoveringham,Production,Major,Ankle
+12-Nov-23,17,13,0,6,4,Kirton,Site Activity,Major,Arm
+17-Oct-21,1,4,0,4,4,Desford,Transport,Critical,Finger
+22-Mar-23,29,14,0,4,4,Hoveringham,Site Activity,Critical,Foot
+19-Jun-20,0,12,0,2,2,Hoveringham,Transport,Critical,Ankle
+7-Jun-23,4,0,0,6,4,Desford,Maintenance,Major,Lower Back
+28-Apr-22,14,6,0,5,4,Desford,Transport,Major,Lower Back
+27-Oct-22,28,4,0,3,3,Hoveringham,Production,Critical,Ankle
+11-Feb-23,12,14,0,4,1,Kirton,Production,Minor,Ankle
+6-Mar-21,22,6,0,9,2,Kirton,Transport,Critical,Foot
+3-Nov-20,21,7,0,4,4,Hoveringham,Site Activity,Major,Finger
+15-Apr-22,16,6,0,8,3,Desford,Site Activity,Critical,Finger
+26-May-22,23,4,0,0,0,Kings Dyke,Site Activity,Critical,Lower Back
+8-May-22,1,2,0,12,3,Desford,Site Activity,Critical,Lower Back
+19-Feb-23,0,10,0,3,2,Hoveringham,Production,Critical,Finger
+17-Sep-23,29,16,0,4,3,Desford,Transport,Major,Arm
+26-Jul-22,6,7,0,7,1,Hams Hall,Maintenance,Critical,Foot
+8-Feb-22,30,1,0,7,4,Hoveringham,Maintenance,Critical,Finger
+13-Feb-21,1,8,0,15,3,Desford,Site Activity,Minor,Ankle
+2-Apr-22,10,11,0,7,2,Kirton,Site Activity,Major,Arm
+30-Jul-23,2,9,0,7,5,Hoveringham,Transport,Major,Finger
+15-Apr-20,13,1,0,7,2,Kirton,Production,Major,Finger
+23-Apr-23,9,14,0,6,3,Hams Hall,Maintenance,Minor,Ankle
+17-May-22,5,14,0,6,3,Kings Dyke,Site Activity,Critical,Ankle
+8-Sep-20,21,9,0,6,2,Desford,Site Activity,Critical,Finger
+6-Dec-20,28,6,0,8,2,Hams Hall,Production,Critical,Ankle
+17-Aug-21,30,9,0,6,2,Kings Dyke,Production,Major,Foot
+28-Feb-20,19,12,0,6,2,Desford,Maintenance,Critical,Lower Back
+2-Sep-20,18,14,0,12,4,Desford,Transport,Minor,Foot
+31-Jan-23,5,15,0,6,0,Kings Dyke,Maintenance,Minor,Lower Back
+10-Feb-22,22,3,0,3,2,Hoveringham,Maintenance,Critical,Finger
+2-May-20,17,11,0,9,0,Kings Dyke,Site Activity,Minor,Arm
+15-Sep-21,15,8,0,0,2,Kings Dyke,Production,Minor,Foot
+26-Oct-22,14,0,0,6,2,Desford,Production,Critical,Finger
+12-Dec-23,28,6,0,6,4,Hams Hall,Transport,Critical,Foot
+16-Mar-20,10,16,0,12,4,Hoveringham,Transport,Critical,Lower Back
+5-Jun-20,0,1,0,6,1,Hoveringham,Transport,Minor,Foot
+24-Nov-20,5,9,0,0,5,Kings Dyke,Transport,Critical,Arm
+26-Nov-21,25,3,0,7,2,Kirton,Maintenance,Minor,Foot
+11-Dec-20,14,13,0,6,2,Hoveringham,Transport,Minor,Lower Back
+9-Jul-20,10,3,0,9,2,Kings Dyke,Maintenance,Critical,Arm
+21-Sep-22,26,3,0,12,4,Kirton,Transport,Major,Lower Back
+11-Jun-22,21,9,0,6,4,Hoveringham,Production,Minor,Arm
+13-Dec-20,5,14,0,6,2,Kings Dyke,Production,Major,Ankle
+11-Feb-20,29,0,0,6,2,Hams Hall,Maintenance,Critical,Foot
+28-Apr-21,1,23,0,6,4,Kings Dyke,Maintenance,Critical,Ankle
+11-Nov-23,28,25,0,13,3,Kirton,Site Activity,Major,Finger
+2-Jul-22,10,20,0,14,2,Hoveringham,Maintenance,Minor,Finger
+16-Nov-23,2,8,0,15,2,Hoveringham,Maintenance,Minor,Foot
+29-Dec-20,15,11,0,6,3,Desford,Transport,Minor,Arm
+23-Nov-20,30,1,0,6,2,Kings Dyke,Maintenance,Minor,Finger
+1-May-23,7,6,0,5,2,Hoveringham,Transport,Major,Finger
+30-Jun-20,0,16,0,6,4,Desford,Site Activity,Major,Lower Back
+28-Oct-22,5,6,0,8,2,Hoveringham,Transport,Minor,Foot
+9-Dec-20,11,11,0,2,4,Hams Hall,Transport,Critical,Ankle
+16-Jun-22,17,9,0,6,2,Kirton,Site Activity,Critical,Lower Back
+1-Jan-21,18,16,0,15,4,Kirton,Production,Critical,Finger
+25-Apr-23,2,4,0,6,4,Desford,Transport,Major,Lower Back
+18-Apr-22,23,1,0,10,3,Kings Dyke,Site Activity,Critical,Arm
+27-Nov-21,27,11,0,5,1,Hams Hall,Site Activity,Critical,Lower Back
+26-May-23,10,4,0,6,1,Kirton,Production,Minor,Finger
+17-Mar-20,26,13,0,9,4,Kings Dyke,Site Activity,Major,Lower Back
+25-Oct-21,11,16,0,10,1,Desford,Site Activity,Critical,Arm
+18-Mar-20,22,14,0,9,2,Kirton,Site Activity,Critical,Ankle
+11-Feb-22,29,16,0,2,0,Desford,Production,Critical,Finger
+22-Dec-22,19,0,0,8,2,Kirton,Site Activity,Major,Finger
+16-Jul-23,14,14,0,3,4,Hams Hall,Maintenance,Minor,Finger
+15-Mar-20,9,14,0,7,5,Kirton,Transport,Critical,Arm
+8-Jun-20,21,2,0,6,2,Desford,Site Activity,Major,Lower Back
+30-Jul-21,5,9,0,15,4,Kings Dyke,Production,Critical,Lower Back
+20-Feb-23,9,7,0,4,1,Hams Hall,Maintenance,Critical,Lower Back
+23-Jan-21,19,13,0,5,4,Kings Dyke,Transport,Critical,Finger
+10-Oct-23,27,8,0,13,1,Desford,Maintenance,Critical,Arm
+30-Apr-20,29,11,0,15,1,Desford,Transport,Critical,Ankle
+1-Oct-22,12,16,0,6,1,Desford,Production,Minor,Arm
+9-Feb-22,4,14,0,12,1,Hams Hall,Maintenance,Minor,Foot
+26-Oct-21,29,10,0,0,1,Kings Dyke,Transport,Major,Lower Back
+11-May-22,21,12,0,2,1,Hoveringham,Site Activity,Major,Foot
+9-Sep-22,8,3,0,5,1,Desford,Maintenance,Major,Ankle
+12-Jun-22,14,10,0,12,0,Hams Hall,Maintenance,Critical,Arm
+28-Jun-21,10,9,0,7,1,Hams Hall,Production,Major,Foot
+3-May-22,15,1,0,11,4,Desford,Maintenance,Major,Finger
+27-Nov-21,25,8,0,7,1,Hams Hall,Site Activity,Minor,Finger
+2-Sep-22,19,6,0,6,1,Kirton,Maintenance,Minor,Finger
+6-Jul-23,23,14,0,10,4,Desford,Site Activity,Major,Lower Back
+26-Mar-20,1,14,0,3,3,Hams Hall,Production,Major,Foot
+15-Feb-23,3,3,0,11,1,Hoveringham,Site Activity,Critical,Lower Back
+12-Mar-20,21,8,0,15,1,Kirton,Maintenance,Major,Finger
+22-Jul-23,2,6,0,9,1,Kings Dyke,Production,Major,Foot
+11-Apr-22,12,2,0,14,5,Hoveringham,Transport,Major,Foot
+19-May-20,12,2,0,14,1,Hoveringham,Maintenance,Critical,Arm
+5-May-23,29,8,0,4,1,Desford,Site Activity,Major,Ankle
+31-Oct-20,27,14,0,12,1,Hoveringham,Production,Major,Ankle
+8-Oct-21,7,16,0,4,3,Desford,Transport,Minor,Ankle
+3-Jan-20,10,3,0,4,2,Kirton,Maintenance,Minor,Lower Back
+21-Apr-22,24,3,0,14,4,Hams Hall,Transport,Major,Arm
+30-Sep-23,30,16,0,10,1,Kings Dyke,Production,Minor,Foot
+14-Jan-21,27,4,0,5,1,Hoveringham,Site Activity,Critical,Arm
+27-Jan-23,1,15,0,9,1,Kings Dyke,Production,Major,Arm
+17-Aug-21,4,3,0,5,1,Kirton,Transport,Critical,Lower Back
+2-Oct-22,8,4,0,2,1,Kings Dyke,Transport,Major,Ankle
+20-Nov-20,7,15,0,13,2,Kings Dyke,Maintenance,Critical,Finger
+14-Oct-22,20,7,0,13,1,Hams Hall,Maintenance,Critical,Finger
+27-Nov-23,17,11,0,13,1,Hoveringham,Site Activity,Minor,Foot
+21-Feb-20,11,14,0,7,1,Desford,Transport,Minor,Lower Back
+27-Feb-21,22,6,0,0,1,Kings Dyke,Production,Critical,Finger
+12-Jul-21,27,16,0,15,1,Hoveringham,Site Activity,Minor,Lower Back
+27-Aug-22,26,15,0,7,1,Hoveringham,Transport,Critical,Finger
+1-Apr-22,24,14,0,2,1,Desford,Site Activity,Critical,Lower Back
+18-Nov-21,22,16,0,14,5,Desford,Site Activity,Minor,Lower Back
+30-Jan-21,8,14,0,12,1,Kings Dyke,Maintenance,Critical,Ankle
+13-Aug-23,29,6,0,15,3,Kings Dyke,Site Activity,Critical,Arm
+11-Mar-20,23,3,0,8,0,Desford,Maintenance,Critical,Arm
+18-Nov-21,4,12,0,15,0,Desford,Transport,Minor,Lower Back
+9-Jun-21,21,8,0,14,1,Hoveringham,Transport,Critical,Lower Back
+10-Jun-20,20,10,0,2,1,Hams Hall,Transport,Critical,Ankle
+17-Jan-23,15,15,0,7,1,Hoveringham,Maintenance,Minor,Foot
+2-Nov-21,28,9,0,7,1,Kirton,Maintenance,Critical,Arm
+3-Feb-21,4,10,0,3,1,Hoveringham,Maintenance,Minor,Ankle
+22-Mar-23,18,0,0,15,1,Kings Dyke,Production,Major,Foot
+8-Jul-22,8,16,0,7,2,Kirton,Transport,Major,Lower Back
+5-Jan-22,21,13,0,6,1,Kings Dyke,Transport,Minor,Lower Back
+20-Jun-20,29,0,0,11,1,Hoveringham,Transport,Critical,Lower Back
+1-Jun-23,4,0,0,3,2,Desford,Site Activity,Critical,Lower Back
+12-Jun-22,15,10,0,6,4,Hoveringham,Maintenance,Major,Ankle
+19-Nov-23,6,12,0,7,1,Desford,Production,Critical,Lower Back
+26-Oct-22,25,6,0,2,1,Kirton,Maintenance,Major,Lower Back
+21-Aug-21,11,2,0,13,1,Kings Dyke,Site Activity,Major,Lower Back
+28-Apr-21,4,11,0,4,2,Kings Dyke,Site Activity,Major,Finger
+13-Jan-22,29,0,0,15,2,Desford,Site Activity,Major,Finger
+12-Oct-22,19,2,0,14,4,Desford,Maintenance,Minor,Finger
+28-Mar-20,3,9,0,13,1,Hams Hall,Site Activity,Minor,Finger
+10-Oct-22,1,6,0,0,1,Hoveringham,Transport,Critical,Ankle
+9-Jul-20,9,9,0,1,3,Kirton,Production,Minor,Foot
+1-Mar-22,6,13,0,1,4,Kings Dyke,Maintenance,Critical,Arm
+8-Feb-20,21,12,0,1,2,Kirton,Transport,Minor,Finger
+4-Feb-22,5,11,0,1,1,Kirton,Production,Major,Lower Back
+28-Apr-21,26,3,0,1,1,Hoveringham,Production,Major,Finger
+12-Nov-21,23,11,0,1,0,Hams Hall,Production,Critical,Arm
+27-Apr-21,15,4,0,1,1,Desford,Production,Minor,Finger
+20-Nov-22,25,8,0,1,5,Desford,Production,Major,Foot
+17-Mar-22,17,1,0,1,3,Desford,Transport,Minor,Finger
+1-Sep-22,2,10,0,1,1,Hoveringham,Transport,Minor,Lower Back
+30-Nov-20,18,10,0,1,1,Hams Hall,Site Activity,Minor,Lower Back
+22-May-22,25,4,0,1,2,Hams Hall,Site Activity,Critical,Lower Back
+11-Apr-20,9,4,0,1,5,Kings Dyke,Maintenance,Critical,Foot
+11-Sep-23,7,6,0,1,4,Kirton,Transport,Critical,Arm
+20-Aug-20,1,13,0,1,1,Desford,Maintenance,Minor,Ankle
+7-Dec-23,29,15,0,1,0,Kings Dyke,Maintenance,Critical,Lower Back
+3-Mar-23,22,10,0,1,4,Hoveringham,Site Activity,Critical,Foot
+6-Jul-21,0,10,0,1,1,Desford,Maintenance,Major,Ankle
+20-Mar-21,27,1,0,1,1,Kirton,Site Activity,Critical,Ankle
+2-Jan-20,1,16,0,1,1,Hoveringham,Maintenance,Major,Foot
+9-Nov-23,24,14,0,1,0,Desford,Transport,Critical,Foot
+31-Dec-21,19,1,0,1,2,Kings Dyke,Site Activity,Major,Finger
+19-Feb-22,15,3,0,1,1,Hoveringham,Production,Minor,Foot
+26-Sep-23,13,13,0,1,2,Hams Hall,Maintenance,Major,Foot
+16-Jul-23,26,14,0,1,1,Kings Dyke,Production,Major,Finger
+23-Apr-22,1,0,0,1,5,Desford,Transport,Minor,Ankle
+29-Apr-23,10,0,0,1,1,Desford,Site Activity,Critical,Foot
+9-Apr-21,3,7,0,1,1,Desford,Transport,Minor,Finger
+9-Sep-22,6,2,0,1,4,Kings Dyke,Transport,Minor,Ankle
+27-Jun-23,24,14,0,1,1,Hams Hall,Production,Major,Ankle
+25-Oct-20,12,15,0,1,1,Hoveringham,Site Activity,Critical,Finger
+8-Aug-21,7,4,0,1,1,Hoveringham,Transport,Minor,Lower Back
+15-Apr-21,22,15,0,1,1,Hoveringham,Production,Critical,Finger
+23-Feb-20,8,16,0,1,1,Hoveringham,Maintenance,Critical,Ankle
+15-Sep-23,14,16,0,1,1,Hams Hall,Maintenance,Critical,Foot
+7-Feb-20,22,0,0,1,1,Hoveringham,Site Activity,Minor,Foot
+22-Nov-21,6,2,0,1,1,Hams Hall,Maintenance,Critical,Arm
+4-Dec-21,5,11,0,1,0,Desford,Site Activity,Critical,Ankle
+17-Aug-20,26,14,0,1,1,Kirton,Production,Minor,Foot
+12-Apr-22,12,4,0,1,1,Hoveringham,Transport,Critical,Finger
+8-May-21,0,16,0,1,1,Kings Dyke,Production,Minor,Lower Back
+14-Jan-20,8,12,0,1,5,Desford,Site Activity,Minor,Foot
+24-Jun-22,22,3,0,1,5,Kings Dyke,Maintenance,Minor,Lower Back
+27-Jun-21,28,15,0,1,5,Kirton,Production,Critical,Finger
+2-Nov-22,20,12,0,1,1,Kirton,Maintenance,Major,Foot
+5-Dec-23,21,4,0,1,5,Kirton,Site Activity,Critical,Finger
+17-Aug-22,28,3,0,1,1,Kirton,Maintenance,Critical,Finger
+14-Nov-23,27,0,0,1,1,Kings Dyke,Maintenance,Major,Lower Back
+23-Feb-22,20,12,0,1,1,Kings Dyke,Site Activity,Minor,Finger
+12-Jan-20,19,6,0,1,2,Kings Dyke,Transport,Critical,Arm
+26-Jan-20,4,3,0,1,1,Desford,Site Activity,Major,Arm
+28-Jan-23,10,4,0,1,0,Hams Hall,Site Activity,Critical,Ankle
+6-Sep-21,2,9,0,1,3,Kings Dyke,Production,Minor,Arm
+15-Aug-23,5,1,0,1,4,Desford,Site Activity,Minor,Arm
+8-Jan-23,5,11,0,1,2,Hoveringham,Transport,Minor,Ankle
+24-Sep-21,3,7,0,1,1,Hoveringham,Production,Minor,Ankle
+16-May-21,29,11,0,1,1,Desford,Site Activity,Major,Finger
+19-Sep-22,14,12,0,1,5,Hams Hall,Production,Major,Ankle
+25-Aug-21,16,8,0,1,5,Kings Dyke,Maintenance,Minor,Arm
+31-Dec-20,14,8,0,1,2,Hams Hall,Transport,Major,Arm
+2-May-23,25,13,0,1,1,Hams Hall,Production,Major,Lower Back
+18-Aug-20,13,9,0,1,1,Desford,Production,Critical,Ankle
+14-Jun-20,0,8,0,1,1,Kirton,Production,Critical,Foot
+8-Dec-21,6,11,0,1,1,Kings Dyke,Production,Major,Foot
+9-Dec-22,20,3,0,1,2,Kings Dyke,Maintenance,Minor,Arm
+31-Jul-20,1,14,0,1,1,Desford,Production,Major,Lower Back
+3-Sep-21,5,8,0,1,1,Hams Hall,Maintenance,Major,Finger
+9-Apr-20,21,8,0,1,2,Hoveringham,Site Activity,Minor,Arm
+23-Oct-23,6,15,0,1,1,Desford,Site Activity,Critical,Finger
+26-Jun-22,24,16,0,1,2,Kings Dyke,Maintenance,Critical,Foot
+3-Aug-22,0,1,0,1,1,Kings Dyke,Production,Minor,Arm
+18-Dec-20,26,1,0,1,2,Hams Hall,Transport,Major,Ankle
+28-Jan-20,12,14,0,1,1,Kings Dyke,Site Activity,Minor,Foot
+8-Sep-23,14,11,0,1,1,Hoveringham,Transport,Major,Foot
+25-Aug-22,1,6,0,1,1,Kings Dyke,Maintenance,Minor,Ankle
+17-Mar-21,12,3,0,1,4,Hams Hall,Site Activity,Major,Finger
+4-Sep-20,7,3,0,1,1,Kings Dyke,Maintenance,Major,Ankle
+29-May-21,22,4,0,1,1,Kirton,Transport,Minor,Finger
+29-Jan-21,12,11,0,1,1,Kings Dyke,Transport,Minor,Ankle
+19-May-22,18,1,0,1,5,Desford,Maintenance,Major,Finger
+18-Sep-21,26,4,0,1,1,Desford,Maintenance,Major,Finger
+28-Jul-23,7,4,0,1,1,Hoveringham,Transport,Minor,Lower Back
+10-Mar-20,13,16,0,1,5,Desford,Maintenance,Major,Arm
+10-Nov-20,29,11,0,1,1,Desford,Transport,Major,Ankle
+11-Dec-23,14,11,0,1,0,Kirton,Production,Minor,Ankle
+2-Apr-23,28,13,0,1,1,Kings Dyke,Transport,Critical,Lower Back
+6-May-23,13,4,0,1,1,Kirton,Transport,Minor,Finger
+28-May-23,22,7,0,1,5,Hams Hall,Production,Major,Arm
+15-Feb-21,7,13,0,1,1,Kirton,Site Activity,Critical,Ankle
+28-Sep-23,26,2,0,1,1,Kirton,Site Activity,Critical,Finger
+14-Aug-21,10,9,1,0,4,Kirton,Transport,Critical,Lower Back
+29-Jan-23,23,12,1,0,2,Kings Dyke,Transport,Critical,Arm
+30-Dec-22,18,2,1,10,5,Hoveringham,Production,Major,Lower Back
+28-Jun-20,2,16,1,0,0,Kirton,Site Activity,Minor,Finger
+17-Jun-21,20,16,1,0,0,Hams Hall,Maintenance,Major,Finger
+12-Aug-23,9,0,1,1,0,Hams Hall,Maintenance,Critical,Finger
+30-Oct-20,29,3,1,0,5,Hoveringham,Site Activity,Minor,Arm
+27-Apr-22,17,16,1,0,3,Hoveringham,Site Activity,Minor,Foot
+7-Oct-21,2,2,1,0,5,Hoveringham,Maintenance,Major,Finger
+15-Mar-20,1,12,1,0,2,Kirton,Transport,Critical,Foot
+26-Oct-23,5,15,1,5,0,Hoveringham,Site Activity,Major,Ankle
+15-Feb-20,17,1,1,0,5,Kirton,Maintenance,Major,Ankle
+24-Jan-20,20,8,1,0,5,Desford,Production,Critical,Foot
+7-Oct-20,21,6,1,10,4,Kirton,Production,Minor,Finger
+30-Mar-22,0,12,1,0,2,Hoveringham,Transport,Critical,Lower Back
+26-Apr-20,5,4,1,0,3,Kings Dyke,Transport,Major,Arm
+29-Sep-20,22,3,1,1,5,Hoveringham,Production,Critical,Lower Back
+15-May-20,27,23,1,0,5,Kings Dyke,Site Activity,Critical,Arm
+24-Jul-23,10,4,1,0,1,Desford,Transport,Critical,Finger
+11-Mar-21,10,8,1,11,3,Kings Dyke,Maintenance,Critical,Finger
+22-Apr-23,20,8,1,0,5,Kings Dyke,Production,Minor,Arm
+2-Jul-21,21,10,1,0,4,Kirton,Transport,Major,Ankle
+10-Mar-21,8,1,1,12,2,Kirton,Transport,Critical,Foot
+30-Jul-22,26,18,1,0,4,Hams Hall,Site Activity,Critical,Lower Back
+27-Sep-20,4,28,1,0,4,Hoveringham,Production,Critical,Finger
+21-Jul-21,29,16,1,0,0,Desford,Transport,Critical,Arm
+30-Jul-20,11,11,1,10,2,Desford,Site Activity,Minor,Foot
+24-Sep-23,8,0,1,0,0,Desford,Maintenance,Major,Ankle
+8-Apr-21,5,4,1,7,4,Kirton,Site Activity,Major,Finger
+21-May-20,20,12,1,7,0,Hams Hall,Production,Minor,Lower Back
+15-Apr-23,15,16,1,7,2,Kirton,Transport,Minor,Lower Back
+13-Nov-23,9,4,1,0,4,Desford,Site Activity,Critical,Foot
+1-Jan-22,19,11,1,14,4,Hams Hall,Production,Major,Ankle
+3-Apr-21,18,14,1,1,0,Desford,Transport,Minor,Ankle
+9-Nov-20,9,7,1,13,4,Desford,Transport,Minor,Finger
+10-May-23,27,14,1,7,2,Desford,Transport,Major,Arm
+14-Nov-21,21,4,1,5,4,Hoveringham,Site Activity,Minor,Foot
+2-Feb-20,22,10,1,2,2,Hoveringham,Maintenance,Critical,Arm
+4-May-22,24,1,1,5,2,Hams Hall,Transport,Major,Ankle
+10-Nov-20,14,11,1,5,4,Hoveringham,Site Activity,Minor,Arm
+31-Jul-20,20,1,1,0,4,Kirton,Maintenance,Major,Arm
+12-May-22,17,15,1,14,4,Kings Dyke,Maintenance,Major,Arm
+30-Jan-23,25,1,1,10,4,Kirton,Maintenance,Critical,Finger
+28-Feb-23,0,15,1,5,3,Desford,Production,Minor,Ankle
+16-Mar-23,23,2,1,11,0,Kings Dyke,Transport,Minor,Lower Back
+2-Dec-20,16,1,1,2,4,Kirton,Transport,Major,Finger
+5-Aug-22,15,0,1,1,4,Desford,Production,Minor,Ankle
+10-Dec-20,10,11,1,0,4,Kirton,Production,Critical,Ankle
+16-Apr-21,30,10,1,10,4,Desford,Site Activity,Minor,Arm
+17-Jun-20,6,0,1,7,4,Kings Dyke,Production,Minor,Ankle
+20-Jan-23,29,3,1,7,2,Kirton,Site Activity,Minor,Arm
+28-Apr-20,27,14,1,11,4,Hoveringham,Production,Minor,Ankle
+23-Dec-23,17,0,1,7,4,Kings Dyke,Transport,Minor,Foot
+5-Sep-23,29,6,1,13,1,Desford,Production,Minor,Ankle
+25-Jan-23,13,14,1,14,2,Hoveringham,Production,Minor,Lower Back
+24-Nov-22,24,12,1,15,1,Hams Hall,Site Activity,Critical,Foot
+13-Aug-20,9,10,1,2,2,Hoveringham,Production,Critical,Arm
+30-Jun-23,25,14,1,10,4,Desford,Site Activity,Minor,Arm
+25-May-22,26,6,1,14,3,Hams Hall,Production,Major,Foot
+16-Apr-22,17,0,1,15,1,Hams Hall,Maintenance,Major,Foot
+20-Oct-21,13,16,1,13,2,Hoveringham,Production,Critical,Ankle
+12-Jun-22,11,1,1,3,3,Hoveringham,Production,Minor,Ankle
+4-Jul-23,14,15,1,11,3,Hoveringham,Transport,Critical,Foot
+16-Jan-22,1,13,1,13,5,Kirton,Site Activity,Major,Foot
+20-Aug-20,12,12,1,1,3,Hoveringham,Maintenance,Major,Finger
+24-Dec-23,27,8,1,13,3,Kirton,Site Activity,Minor,Foot
+6-May-20,11,16,1,9,3,Hoveringham,Production,Critical,Foot
+25-Aug-22,10,9,1,0,3,Hams Hall,Transport,Major,Lower Back
+3-Feb-22,21,13,1,14,1,Kirton,Maintenance,Major,Lower Back
+30-Jun-23,29,14,1,12,0,Kirton,Transport,Critical,Ankle
+6-Jun-20,29,0,1,11,3,Hams Hall,Transport,Minor,Ankle
+15-Apr-22,25,6,1,1,0,Hams Hall,Site Activity,Critical,Ankle
+22-Jul-22,26,14,1,8,1,Kirton,Maintenance,Critical,Foot
+7-Nov-23,27,16,1,11,3,Desford,Transport,Critical,Ankle
+25-Nov-23,18,14,1,15,2,Kings Dyke,Site Activity,Minor,Foot
+31-Mar-21,14,10,1,1,1,Kirton,Transport,Major,Foot
+15-Sep-20,7,8,1,9,4,Hoveringham,Production,Major,Arm
+24-Nov-20,29,13,1,12,3,Kings Dyke,Maintenance,Minor,Ankle
+5-Apr-23,29,12,1,7,3,Kirton,Site Activity,Minor,Ankle
+29-Nov-20,20,16,1,10,3,Desford,Site Activity,Critical,Foot
+26-Jul-21,26,1,1,13,4,Hams Hall,Production,Critical,Ankle
+2-Nov-23,28,7,1,12,3,Hoveringham,Maintenance,Critical,Ankle
+23-Oct-21,3,9,1,13,3,Kings Dyke,Site Activity,Major,Arm
+23-Jul-20,15,4,1,7,4,Hoveringham,Maintenance,Minor,Ankle
+3-Sep-20,1,1,1,7,3,Desford,Site Activity,Minor,Ankle
+10-Nov-23,7,16,1,7,2,Kings Dyke,Maintenance,Major,Lower Back
+21-Dec-20,3,11,1,7,4,Desford,Production,Major,Ankle
+18-Mar-22,13,8,1,7,3,Hams Hall,Site Activity,Minor,Arm
+17-Jul-23,16,15,1,7,3,Hoveringham,Site Activity,Major,Lower Back
+18-Jul-22,4,10,1,7,3,Hams Hall,Production,Major,Lower Back
+3-Jun-23,23,8,1,2,3,Kings Dyke,Transport,Major,Ankle
+28-Feb-21,14,7,1,3,3,Kirton,Transport,Critical,Lower Back
+12-Nov-22,19,8,1,7,3,Desford,Site Activity,Major,Finger
+2-Nov-22,27,1,1,7,3,Desford,Maintenance,Major,Foot
+3-May-21,4,6,1,7,4,Desford,Production,Critical,Lower Back
+16-Dec-21,15,10,1,12,3,Hams Hall,Production,Critical,Ankle
+9-Jun-23,21,4,1,7,4,Kings Dyke,Transport,Minor,Foot
+19-Dec-23,3,7,1,8,3,Hams Hall,Site Activity,Critical,Ankle
+20-Aug-22,19,6,1,7,0,Hoveringham,Maintenance,Major,Ankle
+20-Feb-21,26,16,1,7,4,Desford,Maintenance,Minor,Lower Back
+6-Jun-23,29,7,1,7,3,Desford,Maintenance,Critical,Lower Back
+19-Feb-23,12,9,1,15,3,Kirton,Maintenance,Major,Foot
+6-Jul-23,28,9,1,2,3,Kings Dyke,Transport,Critical,Finger
+7-Dec-21,14,9,1,7,3,Kirton,Transport,Minor,Finger
+21-Nov-20,19,0,1,9,4,Hams Hall,Maintenance,Minor,Lower Back
+11-Jun-21,19,16,1,7,4,Kings Dyke,Transport,Critical,Ankle
+28-Jul-21,19,13,1,13,4,Hoveringham,Site Activity,Major,Arm
+9-Sep-22,28,3,1,1,3,Kings Dyke,Transport,Major,Arm
+15-Sep-20,7,8,1,7,4,Desford,Maintenance,Critical,Arm
+16-Aug-21,12,7,1,7,4,Hams Hall,Transport,Minor,Finger
+20-Dec-20,13,16,1,15,3,Hoveringham,Transport,Minor,Finger
+1-Dec-20,5,9,1,7,3,Hams Hall,Production,Major,Foot
+2-Mar-23,28,16,1,7,3,Hams Hall,Transport,Critical,Arm
+20-Jan-20,10,13,1,7,4,Hams Hall,Production,Minor,Finger
+20-Jun-22,30,2,1,13,2,Hams Hall,Maintenance,Major,Ankle
+13-Jun-20,6,14,1,7,3,Desford,Maintenance,Major,Finger
+28-Aug-20,20,4,1,7,3,Kings Dyke,Transport,Critical,Arm
+11-Jun-22,24,0,1,7,3,Hoveringham,Maintenance,Critical,Lower Back
+7-Aug-22,30,13,1,7,3,Hoveringham,Production,Critical,Arm
+22-Jun-20,0,12,1,7,3,Desford,Production,Critical,Finger
+1-Jan-21,7,14,1,7,2,Hoveringham,Production,Minor,Lower Back
+25-May-23,20,9,1,7,3,Hoveringham,Site Activity,Critical,Ankle
+3-Jan-20,6,10,1,1,1,Kirton,Maintenance,Minor,Ankle
+11-Sep-23,10,12,1,7,3,Hams Hall,Maintenance,Critical,Ankle
+6-Aug-22,28,4,1,10,3,Kirton,Maintenance,Critical,Finger
+21-Oct-22,19,3,1,7,2,Hams Hall,Production,Critical,Arm
+9-Nov-22,16,10,1,7,3,Desford,Production,Major,Ankle
+27-Jan-21,26,1,1,7,3,Desford,Transport,Minor,Finger
+26-Jul-22,27,7,1,9,4,Kirton,Maintenance,Minor,Arm
+19-Mar-23,5,12,1,7,3,Kings Dyke,Maintenance,Critical,Lower Back
+7-Jan-22,16,7,1,10,3,Kings Dyke,Maintenance,Minor,Arm
+27-Nov-22,24,12,1,7,1,Kirton,Transport,Major,Arm
+17-Oct-20,17,16,1,7,0,Kings Dyke,Transport,Major,Lower Back
+7-Jul-21,12,0,1,12,3,Kings Dyke,Site Activity,Minor,Ankle
+16-Feb-23,27,10,1,0,3,Hoveringham,Transport,Critical,Foot
+23-Feb-22,7,6,1,9,1,Kings Dyke,Maintenance,Critical,Arm
+4-Feb-23,21,12,1,0,3,Kings Dyke,Maintenance,Minor,Lower Back
+5-Feb-20,30,15,1,11,3,Hoveringham,Maintenance,Major,Finger
+22-Mar-22,21,14,1,9,5,Desford,Site Activity,Major,Arm
+27-Dec-20,6,3,1,13,4,Hoveringham,Production,Critical,Foot
+29-Nov-23,16,4,1,11,1,Hoveringham,Site Activity,Minor,Finger
+16-May-21,7,4,1,1,3,Desford,Production,Critical,Finger
+20-Sep-22,4,16,1,5,4,Desford,Transport,Critical,Finger
+17-Feb-23,30,4,1,1,2,Desford,Transport,Major,Finger
+15-Jan-20,28,14,1,2,2,Desford,Site Activity,Major,Arm
+7-Nov-20,22,8,1,2,5,Desford,Maintenance,Major,Arm
+2-Feb-21,27,6,1,2,2,Kings Dyke,Transport,Major,Arm
+24-Oct-20,28,15,1,5,2,Desford,Maintenance,Minor,Ankle
+4-Nov-22,19,1,1,8,2,Hams Hall,Maintenance,Critical,Ankle
+23-Jan-23,18,6,1,8,2,Hams Hall,Site Activity,Critical,Finger
+5-Aug-20,0,13,1,13,2,Hams Hall,Maintenance,Minor,Ankle
+2-Sep-22,13,6,1,11,2,Kirton,Site Activity,Minor,Arm
+28-Jul-21,30,14,1,13,2,Kirton,Site Activity,Critical,Ankle
+21-Jul-23,16,14,1,1,2,Desford,Transport,Major,Finger
+16-May-20,22,8,1,11,3,Kings Dyke,Maintenance,Major,Ankle
+5-Apr-21,25,10,1,5,2,Hoveringham,Site Activity,Minor,Foot
+15-Nov-20,28,4,1,13,2,Hoveringham,Production,Minor,Arm
+6-Jan-21,19,1,1,5,1,Hams Hall,Production,Critical,Finger
+16-Dec-23,30,10,1,11,1,Kirton,Production,Critical,Foot
+8-Mar-22,2,2,1,11,3,Kings Dyke,Production,Minor,Foot
+23-Aug-21,9,11,1,3,2,Hoveringham,Maintenance,Minor,Finger
+13-Apr-20,6,15,1,11,5,Hams Hall,Production,Critical,Finger
+31-Aug-21,5,3,1,12,3,Hams Hall,Transport,Critical,Foot
+1-Jan-20,19,12,1,14,2,Desford,Site Activity,Major,Ankle
+21-Jul-21,0,16,1,1,2,Kirton,Transport,Major,Ankle
+27-Dec-20,15,4,1,10,2,Hams Hall,Production,Major,Ankle
+6-Nov-22,25,0,1,15,3,Desford,Production,Major,Ankle
+28-Feb-20,30,15,1,5,0,Desford,Transport,Major,Finger
+23-Oct-21,10,15,1,1,2,Hams Hall,Production,Critical,Lower Back
+16-Aug-23,13,15,1,7,2,Hoveringham,Production,Critical,Lower Back
+21-Dec-22,11,8,1,13,2,Kirton,Maintenance,Minor,Arm
+4-Sep-21,15,0,1,12,2,Kirton,Site Activity,Critical,Finger
+9-Aug-21,21,10,1,8,2,Kirton,Maintenance,Minor,Finger
+17-Apr-23,2,10,1,12,0,Kings Dyke,Maintenance,Minor,Arm
+26-Nov-22,5,10,1,1,2,Kings Dyke,Site Activity,Minor,Lower Back
+10-Apr-20,7,1,1,11,2,Kings Dyke,Maintenance,Critical,Ankle
+22-Jul-23,27,15,1,0,2,Hams Hall,Production,Major,Lower Back
+8-Jul-23,16,0,1,13,4,Kirton,Production,Minor,Foot
+6-Oct-22,24,15,1,11,4,Hoveringham,Maintenance,Critical,Finger
+28-Aug-20,15,4,1,1,1,Hoveringham,Transport,Critical,Finger
+6-Aug-23,1,16,1,1,4,Hoveringham,Transport,Major,Foot
+24-Nov-20,0,8,1,1,1,Desford,Production,Minor,Lower Back
+12-Nov-22,22,11,1,1,5,Kirton,Production,Critical,Lower Back
+11-May-20,9,3,1,7,1,Hoveringham,Site Activity,Critical,Finger
+13-Jan-23,29,10,1,7,3,Kings Dyke,Site Activity,Major,Foot
+21-Nov-20,26,8,1,1,1,Hams Hall,Transport,Minor,Arm
+1-Mar-20,3,8,1,1,1,Kirton,Maintenance,Minor,Arm
+15-Sep-22,30,11,1,12,1,Kirton,Maintenance,Minor,Ankle
+12-Sep-21,5,11,1,1,4,Kings Dyke,Transport,Critical,Lower Back
+8-Sep-22,17,3,1,1,4,Kirton,Site Activity,Minor,Foot
+6-Nov-20,30,9,1,1,2,Desford,Production,Major,Finger
+18-Dec-21,17,4,1,1,5,Desford,Site Activity,Major,Ankle
+16-Sep-23,29,0,1,8,1,Hams Hall,Transport,Minor,Foot
+7-Mar-23,8,3,1,1,1,Kirton,Site Activity,Minor,Foot
+8-Aug-21,11,0,1,7,1,Hoveringham,Transport,Major,Arm
+20-Mar-21,13,0,1,13,2,Desford,Production,Critical,Finger
+13-Sep-22,20,13,1,11,2,Kirton,Site Activity,Critical,Foot
+28-Jul-22,29,9,1,1,1,Kirton,Transport,Major,Foot
+20-Dec-21,0,12,1,10,1,Kings Dyke,Maintenance,Minor,Foot
+9-Jan-21,16,11,1,1,1,Desford,Production,Minor,Finger
+18-Mar-21,19,13,1,6,5,Desford,Maintenance,Minor,Ankle
+6-May-21,14,13,1,6,1,Hams Hall,Site Activity,Minor,Lower Back
+6-Apr-21,10,2,1,6,2,Hoveringham,Maintenance,Minor,Foot
+1-Nov-21,10,3,1,6,0,Hoveringham,Transport,Major,Ankle
+4-Mar-21,4,12,1,6,0,Hoveringham,Maintenance,Major,Ankle
+5-Oct-21,7,4,1,6,5,Hoveringham,Production,Major,Arm
+13-Jun-20,20,10,1,6,2,Hams Hall,Site Activity,Minor,Finger
+5-Oct-20,1,6,1,6,0,Hams Hall,Site Activity,Minor,Finger
+23-May-22,16,1,1,6,3,Kings Dyke,Production,Minor,Ankle
+3-Mar-21,9,4,1,6,3,Hams Hall,Transport,Major,Foot
+17-Apr-22,4,11,1,6,5,Hoveringham,Production,Critical,Lower Back
+21-Feb-20,21,11,1,6,4,Desford,Production,Major,Arm
+28-Apr-21,2,2,1,6,0,Kings Dyke,Production,Major,Lower Back
+9-Oct-21,15,3,1,6,4,Kirton,Transport,Critical,Lower Back
+15-Nov-21,17,14,1,6,3,Kings Dyke,Site Activity,Major,Lower Back
+2-Sep-20,6,11,1,6,2,Kings Dyke,Production,Major,Arm
+21-Dec-21,19,8,1,6,2,Kings Dyke,Site Activity,Minor,Foot
+24-Oct-20,20,4,1,6,2,Kings Dyke,Maintenance,Minor,Ankle
+11-May-20,20,12,1,6,2,Kirton,Production,Minor,Finger
+30-Apr-21,27,11,1,6,5,Kirton,Production,Major,Foot
+20-Jul-21,15,6,1,6,0,Kirton,Production,Minor,Ankle
+17-Jul-23,7,9,1,6,2,Kings Dyke,Transport,Minor,Ankle
+29-Oct-21,5,15,1,6,2,Hoveringham,Maintenance,Critical,Lower Back
+28-Apr-20,29,13,1,6,2,Hams Hall,Transport,Critical,Ankle
+17-Nov-21,26,3,1,6,4,Kirton,Site Activity,Major,Finger
+9-Jul-21,30,2,1,6,2,Hams Hall,Production,Major,Finger
+21-Nov-22,22,6,1,6,2,Desford,Production,Major,Foot
+3-Jul-23,23,12,1,6,4,Desford,Site Activity,Major,Ankle
+23-Aug-21,22,1,1,6,1,Hoveringham,Site Activity,Critical,Lower Back
+3-Jan-20,4,6,1,6,2,Hoveringham,Maintenance,Minor,Lower Back
+4-May-23,29,15,1,6,2,Hams Hall,Transport,Minor,Lower Back
+9-Aug-21,17,3,1,6,1,Hams Hall,Maintenance,Minor,Lower Back
+12-Dec-23,18,11,1,6,2,Desford,Production,Critical,Finger
+28-May-23,30,6,1,6,4,Hoveringham,Maintenance,Minor,Arm
+5-Sep-22,14,13,1,6,2,Hoveringham,Transport,Critical,Arm
+24-Nov-20,21,12,1,6,2,Desford,Production,Major,Foot
+29-Jul-22,27,15,1,6,2,Hams Hall,Site Activity,Major,Ankle
+1-Apr-23,16,10,1,6,0,Kirton,Production,Minor,Finger
+21-Jun-20,28,15,1,6,2,Kings Dyke,Site Activity,Major,Foot
+28-Apr-21,1,1,1,6,3,Hoveringham,Production,Critical,Lower Back
+18-Feb-22,3,2,1,6,2,Kings Dyke,Maintenance,Major,Foot
+29-Apr-22,9,8,1,6,2,Kirton,Maintenance,Critical,Finger
+25-Sep-23,9,1,1,6,2,Hoveringham,Transport,Major,Ankle
+24-Feb-22,28,11,1,6,2,Kirton,Maintenance,Major,Foot
+23-Mar-23,1,8,1,6,4,Desford,Maintenance,Minor,Arm
+7-Feb-22,30,2,1,6,2,Desford,Production,Critical,Finger
+14-Jul-23,21,4,1,6,2,Desford,Transport,Minor,Finger
+15-Jan-22,30,7,1,6,5,Kings Dyke,Production,Major,Foot
+29-Feb-20,20,1,1,6,2,Kirton,Transport,Major,Arm
+14-Feb-23,19,4,1,6,2,Hoveringham,Site Activity,Critical,Lower Back
+19-Sep-22,29,12,1,6,4,Kirton,Site Activity,Major,Finger
+14-Jan-23,10,8,1,6,2,Kings Dyke,Production,Minor,Ankle
+12-Sep-23,14,10,1,6,2,Hoveringham,Site Activity,Critical,Arm
+14-Aug-22,2,1,1,6,4,Kirton,Transport,Major,Arm
+30-Sep-21,29,4,1,6,2,Kirton,Site Activity,Minor,Arm
+24-Nov-23,5,13,1,6,4,Kings Dyke,Maintenance,Critical,Finger
+8-May-20,15,1,1,6,4,Hoveringham,Production,Minor,Arm
+24-Dec-22,21,9,1,6,2,Kings Dyke,Site Activity,Minor,Lower Back
+8-Jun-22,28,9,1,6,4,Hoveringham,Transport,Major,Arm
+5-Oct-20,6,0,1,6,2,Kirton,Site Activity,Minor,Lower Back
+25-Dec-20,9,15,1,6,2,Desford,Maintenance,Critical,Lower Back
+18-Aug-23,19,14,1,6,3,Kings Dyke,Production,Critical,Lower Back
+9-Sep-20,13,6,1,6,4,Desford,Maintenance,Major,Foot
+18-Jan-23,23,1,1,6,2,Hams Hall,Production,Major,Lower Back
+2-Jan-20,20,12,1,6,0,Kings Dyke,Transport,Minor,Arm
+17-Aug-21,20,9,1,6,2,Desford,Production,Critical,Lower Back
+18-Oct-20,20,6,1,6,2,Hoveringham,Maintenance,Minor,Arm
+9-Jan-20,5,15,1,6,1,Kings Dyke,Site Activity,Major,Finger
+20-Feb-23,26,9,1,6,1,Desford,Transport,Major,Finger
+24-Jan-21,13,12,1,4,0,Kings Dyke,Transport,Critical,Lower Back
+16-Aug-21,21,4,1,4,2,Kirton,Transport,Major,Foot
+3-Jan-22,12,14,1,4,4,Kirton,Production,Major,Lower Back
+26-May-21,19,13,1,4,4,Kirton,Transport,Major,Finger
+31-Aug-23,6,6,1,4,4,Hoveringham,Transport,Critical,Foot
+6-Sep-21,9,2,1,4,2,Kings Dyke,Maintenance,Major,Lower Back
+8-Jul-23,1,0,1,4,4,Hoveringham,Site Activity,Minor,Finger
+8-May-23,29,8,1,4,4,Desford,Site Activity,Major,Lower Back
+16-Jan-22,28,4,1,4,5,Kings Dyke,Site Activity,Minor,Foot
+6-Jun-22,17,15,1,4,4,Desford,Production,Critical,Finger
+27-Feb-23,6,1,1,4,4,Hoveringham,Transport,Major,Lower Back
+18-Jan-20,27,1,1,4,4,Desford,Transport,Major,Arm
+25-Aug-23,9,10,1,4,4,Kings Dyke,Site Activity,Minor,Foot
+28-Dec-23,25,6,1,4,4,Kings Dyke,Transport,Major,Foot
+18-May-20,22,8,1,4,4,Kings Dyke,Maintenance,Critical,Lower Back
+19-Nov-23,2,13,1,4,0,Kirton,Maintenance,Minor,Finger
+9-Aug-20,10,14,1,4,4,Hoveringham,Maintenance,Minor,Finger
+28-Jul-21,2,7,1,4,2,Kirton,Production,Major,Lower Back
+11-Mar-23,20,0,1,4,2,Kings Dyke,Transport,Critical,Finger
+14-Aug-23,30,0,1,4,4,Kings Dyke,Site Activity,Critical,Foot
+11-Dec-21,24,8,1,4,2,Kirton,Production,Major,Finger
+8-Mar-22,24,8,1,4,4,Hams Hall,Production,Major,Lower Back
+31-Oct-22,6,15,1,4,4,Desford,Site Activity,Minor,Ankle
+20-Sep-21,15,8,1,4,4,Desford,Maintenance,Minor,Foot
+19-Nov-20,17,2,1,4,4,Kings Dyke,Production,Major,Foot
+16-Dec-20,18,1,1,4,4,Kirton,Transport,Major,Ankle
+9-Jun-23,10,11,1,4,0,Hams Hall,Site Activity,Minor,Arm
+10-Nov-23,3,13,1,4,0,Kings Dyke,Site Activity,Critical,Foot
+19-May-22,24,13,1,4,4,Desford,Production,Major,Finger
+17-May-21,9,1,1,4,4,Hoveringham,Site Activity,Major,Ankle
+17-Apr-20,30,8,1,4,4,Desford,Transport,Major,Lower Back
+4-Mar-21,0,3,1,4,4,Hams Hall,Transport,Minor,Finger
+19-Jan-21,23,13,1,4,4,Kirton,Site Activity,Major,Arm
+20-Jul-22,30,9,1,4,4,Hams Hall,Transport,Minor,Foot
+23-Jul-20,11,0,1,4,2,Kings Dyke,Maintenance,Major,Finger
+16-Aug-22,9,11,1,4,0,Kings Dyke,Maintenance,Critical,Arm
+9-Mar-23,22,14,1,4,0,Hams Hall,Production,Critical,Foot
+8-Nov-22,16,10,1,4,4,Hoveringham,Production,Major,Arm
+19-Jul-22,8,11,1,4,2,Kings Dyke,Maintenance,Major,Arm
+5-Nov-20,19,14,1,4,5,Hoveringham,Production,Critical,Lower Back
+13-Sep-22,7,13,1,4,4,Hams Hall,Site Activity,Critical,Ankle
+16-Sep-20,12,2,1,4,2,Kirton,Maintenance,Minor,Lower Back
+27-Nov-20,5,13,1,4,2,Hams Hall,Site Activity,Minor,Ankle
+10-Sep-21,0,1,1,4,0,Hoveringham,Maintenance,Critical,Foot
+27-Nov-22,12,6,1,4,4,Hams Hall,Site Activity,Major,Ankle
+29-May-21,18,11,1,4,4,Desford,Maintenance,Minor,Arm
+3-Feb-20,2,16,1,4,3,Kings Dyke,Production,Major,Lower Back
+31-Mar-23,20,3,1,4,1,Desford,Site Activity,Major,Foot
+24-Nov-22,1,12,1,4,3,Kings Dyke,Maintenance,Major,Ankle
+24-Jul-20,14,1,1,4,3,Desford,Production,Major,Foot
+4-Jan-21,10,0,1,4,3,Hoveringham,Transport,Critical,Lower Back
+14-May-22,25,1,1,4,1,Hoveringham,Transport,Minor,Lower Back
+23-Mar-21,6,7,1,4,3,Kirton,Transport,Minor,Arm
+3-Mar-20,14,4,1,4,0,Hams Hall,Maintenance,Minor,Lower Back
+19-May-22,3,0,1,4,4,Kirton,Maintenance,Minor,Finger
+2-Jul-23,21,0,1,4,1,Desford,Production,Major,Foot
+15-Sep-22,1,10,1,4,2,Kings Dyke,Transport,Minor,Arm
+6-Oct-21,8,4,1,4,3,Kings Dyke,Maintenance,Major,Ankle
+5-Oct-20,17,16,1,4,5,Kirton,Production,Major,Ankle
+15-Feb-21,25,13,1,4,1,Hoveringham,Production,Minor,Ankle
+17-Jan-23,20,7,1,4,5,Kirton,Transport,Major,Arm
+1-Sep-20,9,16,1,4,2,Desford,Production,Minor,Arm
+26-Nov-20,4,10,1,4,1,Kings Dyke,Transport,Critical,Ankle
+15-Dec-23,29,14,1,4,1,Desford,Production,Minor,Finger
+18-Sep-21,14,11,1,4,5,Desford,Production,Critical,Finger
+21-Jun-23,15,6,1,4,3,Hams Hall,Maintenance,Major,Arm
+14-Jan-20,2,6,1,4,3,Desford,Maintenance,Critical,Lower Back
+15-Feb-23,23,3,1,4,3,Desford,Transport,Minor,Ankle
+16-Jun-20,16,3,1,4,2,Desford,Production,Minor,Lower Back
+28-Mar-22,5,2,1,4,3,Hoveringham,Production,Minor,Foot
+5-Sep-23,27,16,1,4,3,Hoveringham,Maintenance,Minor,Ankle
+7-May-22,12,7,1,4,3,Kirton,Maintenance,Critical,Foot
+4-Aug-20,3,0,1,4,3,Hoveringham,Transport,Minor,Ankle
+17-Nov-23,28,11,1,4,2,Hoveringham,Site Activity,Critical,Finger
+24-Aug-21,7,2,1,4,2,Hams Hall,Production,Minor,Lower Back
+20-Jun-20,5,11,1,4,3,Kings Dyke,Maintenance,Minor,Finger
+16-Dec-22,8,3,1,4,4,Hoveringham,Site Activity,Critical,Ankle
+2-Jun-23,23,2,1,4,3,Hoveringham,Transport,Minor,Foot
+6-Oct-20,11,16,1,4,3,Kirton,Site Activity,Critical,Finger
+26-Mar-21,15,13,1,4,3,Kirton,Production,Major,Finger
+13-Apr-21,13,12,1,4,1,Hoveringham,Site Activity,Minor,Lower Back
+28-Oct-21,11,4,1,4,3,Kings Dyke,Site Activity,Critical,Ankle
+25-May-22,30,16,1,4,3,Hoveringham,Production,Minor,Ankle
+17-Jun-21,3,3,1,4,3,Hoveringham,Production,Critical,Lower Back
+17-Feb-23,28,7,1,4,0,Hams Hall,Production,Critical,Finger
+4-Aug-21,12,11,1,4,3,Hoveringham,Transport,Minor,Lower Back
+11-Aug-20,9,0,1,4,1,Kirton,Transport,Minor,Lower Back
+4-Jun-23,25,6,1,4,2,Hoveringham,Transport,Minor,Finger
+26-May-20,19,12,1,4,3,Hoveringham,Production,Major,Arm
+8-Aug-21,7,7,1,4,1,Kings Dyke,Site Activity,Minor,Arm
+25-Mar-21,29,0,1,4,5,Desford,Transport,Critical,Foot
