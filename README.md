@@ -47,48 +47,37 @@ We performed an initial EDA to better understand the data:
 + Vehicle Incidents: Although vehicle incidents slightly decreased MoM (-3%), the overall numbers remain high and are a concern​(Health & Safety report).
 
 
-## Project Structure
-Health-Safety-Report-Analysis/
-│
-├── data/                      # Raw data files
-│   ├── health_safety_data.csv  # CSV data file for analysis
-│
-├── sql_queries/                # SQL scripts for data analysis
-│   ├── incidents_by_site.sql
-│   ├── injuries_by_type.sql
-│   ├── business_unit_analysis.sql
-│
-├── visualizations/             # Power BI file for dashboard visualization
-│   ├── health_safety_dashboard.pbix
-│
-├── reports/                    # Reports on analysis and recommendations
-│   ├── findings.md
-│   ├── recommendations.md
-│
-├── README.md                   # Project overview and instructions
-
 ## SQL Queries and Analysis
 The project includes various SQL scripts used to analyze the dataset:
 
 + Incidents by Site: Breakdown of the number of incidents reported at different company sites.
 
 SELECT Site, COUNT(IncidentID) AS TotalIncidents
+
 FROM Incidents
+
 GROUP BY Site
+
 ORDER BY TotalIncidents DESC;
 
 + Injuries by Type: Analysis of the most frequent types of injuries.
 
 SELECT InjuryType, COUNT(InjuryID) AS TotalInjuries
+
 FROM Injuries
+
 GROUP BY InjuryType
+
 ORDER BY TotalInjuries DESC;
 
 + Business Unit Analysis: Number of incidents reported in each business unit.
 
 SELECT BusinessUnit, COUNT(IncidentID) AS TotalIncidents
+
 FROM Incidents
+
 GROUP BY BusinessUnit
+
 ORDER BY TotalIncidents DESC;
 
 ## Visualization
