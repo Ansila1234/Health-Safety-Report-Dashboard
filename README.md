@@ -52,33 +52,33 @@ The project includes various SQL scripts used to analyze the dataset:
 
 + Incidents by Site: Breakdown of the number of incidents reported at different company sites.
 
-SELECT Site, COUNT(IncidentID) AS TotalIncidents
+             SELECT Site, COUNT(IncidentID) AS TotalIncidents
 
-FROM Incidents
+             FROM Incidents
 
-GROUP BY Site
+             GROUP BY Site
 
-ORDER BY TotalIncidents DESC;
+             ORDER BY TotalIncidents DESC;
 
 + Injuries by Type: Analysis of the most frequent types of injuries.
 
-SELECT InjuryType, COUNT(InjuryID) AS TotalInjuries
+             SELECT InjuryType, COUNT(InjuryID) AS TotalInjuries
 
-FROM Injuries
+             FROM Injuries
 
-GROUP BY InjuryType
+             GROUP BY InjuryType
 
-ORDER BY TotalInjuries DESC;
+             ORDER BY TotalInjuries DESC;
 
 + Business Unit Analysis: Number of incidents reported in each business unit.
 
-SELECT BusinessUnit, COUNT(IncidentID) AS TotalIncidents
+             SELECT BusinessUnit, COUNT(IncidentID) AS TotalIncidents
 
-FROM Incidents
+             FROM Incidents
 
-GROUP BY BusinessUnit
+             GROUP BY BusinessUnit
 
-ORDER BY TotalIncidents DESC;
+             ORDER BY TotalIncidents DESC;
 
 ## Visualization
 An interactive Power BI Dashboard was created to visualize key insights:
