@@ -1,6 +1,6 @@
 # Health & Safety Report Analysis
 
-
+[Link to Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiNjkwODQ0ZTktN2NkNC00MDJhLWEwMjMtZjhmOTdmMTdkODY2IiwidCI6ImU5ODE4OTYxLTJkN2QtNGMwYS05ZGQ1LTI1MmRiYmM2ZWNkZiJ9)
 ## Overview
 This project provides an analysis of health and safety incidents reported across multiple business units and sites using Power BI for visualization. The goal is to identify trends in workplace injuries, near misses, vehicle-related accidents, and overall incidents to recommend safety measures that can improve workplace conditions and reduce risks.
 
